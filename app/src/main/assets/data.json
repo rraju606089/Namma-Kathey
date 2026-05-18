@@ -1,0 +1,1461 @@
+{
+  "districts": [
+    {
+      "name": "Bagalkote",
+      "heroes": [
+        {
+          "id": "ranadheera",
+          "name": "Ranadheera Kanteerava",
+          "nameKn": "ರಣಧೀರ ಕಂಠೀರವ",
+          "image": "ranadheera",
+          "shortDescription": "King of Mysore known for his strength.",
+          "shortDescriptionKn": "ತನ್ನ ಶಕ್ತಿಗೆ ಹೆಸರಾದ ಮೈಸೂರು ರಾಜ.",
+          "stories": [
+            {
+              "title": "The Wrestler King",
+              "titleKn": "ಕುಸ್ತಿಪಟು ರಾಜ",
+              "image": "ranadheera",
+              "content": "Ranadheera Kanteerava was a legendary king of the Wodeyar dynasty. He was known for his immense physical strength and expertise in wrestling.",
+              "contentKn": "ರಣಧೀರ ಕಂಠೀರವ ಒಡೆಯರ್ ರಾಜವಂಶದ ಪೌರಾಣಿಕ ರಾಜ. ಅವರು ತಮ್ಮ ಅಪಾರ ದೈಹಿಕ ಶಕ್ತಿ ಮತ್ತು ಕುಸ್ತಿಯಲ್ಲಿನ ಪರಿಣತಿಗೆ ಹೆಸರುವಾಸಿಯಾಗಿದ್ದರು."
+            },
+            {
+              "title": "Defending the Kingdom",
+              "titleKn": "ರಾಜ್ಯದ ರಕ್ಷಣೆ",
+              "image": "ranadheera",
+              "content": "He successfully defended the Mysore kingdom against various invasions, establishing stability and security for his people.",
+              "contentKn": "ಅವರು ವಿವಿಧ ಆಕ್ರಮಣಗಳ ವಿರುದ್ಧ ಮೈಸೂರು ರಾಜ್ಯವನ್ನು ಯಶಸ್ವಿಯಾಗಿ ರಕ್ಷಿಸಿದರು, ತಮ್ಮ ಜನರಿಗೆ ಸ್ಥಿರತೆ ಮತ್ತು ಸುರಕ್ಷತೆಯನ್ನು ಸ್ಥಾಪಿಸಿದರು."
+            },
+            {
+              "title": "A Just Ruler",
+              "titleKn": "ನ್ಯಾಯಯುತ ಆಡಳಿತಗಾರ",
+              "image": "ranadheera",
+              "content": "Beyond his strength, he was a just ruler who cared for the welfare of his subjects and promoted local culture and arts.",
+              "contentKn": "ತಮ್ಮ ಶಕ್ತಿಯ ಹೊರತಾಗಿ, ಅವರು ತಮ್ಮ ಪ್ರಜೆಗಳ ಕಲ್ಯಾಣಕ್ಕಾಗಿ ಕಾಳಜಿ ವಹಿಸುವ ಮತ್ತು ಸ್ಥಳೀಯ ಸಂಸ್ಕೃತಿ ಮತ್ತು ಕಲೆಗಳನ್ನು ಉತ್ತೇಜಿಸುವ ನ್ಯಾಯಯುತ ಆಡಳಿತಗಾರರಾಗಿದ್ದರು."
+            }
+          ],
+          "quiz": [
+            {
+              "question": "Which dynasty did Ranadheera belong to?",
+              "questionKn": "ರಣಧೀರ ಯಾವ ರಾಜವಂಶಕ್ಕೆ ಸೇರಿದವರು?",
+              "options": ["Wodeyar", "Kadamba", "Chalukya", "Hoysala"],
+              "optionsKn": ["ಒಡೆಯರ್", "ಕದಂಬ", "ಚಾಲುಕ್ಯ", "ಹೊಯ್ಸಳ"],
+              "correctAnswerIndex": 0
+            }
+          ],
+          "statueLat": 16.1817,
+          "statueLng": 75.6958
+        }
+      ]
+    },
+    {
+      "name": "Ballari",
+      "heroes": [
+        {
+          "id": "kumara_rama",
+          "name": "Kumara Rama",
+          "nameKn": "ಕುಮಾರ ರಾಮ",
+          "image":"kumararama",
+          "shortDescription": "Prince of Kampili.",
+          "shortDescriptionKn": "ಕಂಪಿಲಿಯ ರಾಜಕುಮಾರ.",
+          "stories": [
+            {
+              "title": "Sacrifice for Honor",
+              "titleKn": "ಗೌರವಕ್ಕಾಗಿ ಬಲಿದಾನ",
+              "image": "kumararama",
+              "content": "Kumara Rama was a brave prince of Kampili who fought against the Delhi Sultanate forces to protect his kingdom's honor.",
+              "contentKn": "ಕುಮಾರ ರಾಮ ಕಂಪಿಲಿಯ ವೀರ ರಾಜಕುಮಾರ, ಅವರು ತಮ್ಮ ರಾಜ್ಯದ ಗೌರವವನ್ನು ರಕ್ಷಿಸಲು ದೆಹಲಿ ಸುಲ್ತಾನರ ಪಡೆಗಳ ವಿರುದ್ಧ ಹೋರಾಡಿದರು."
+            },
+            {
+              "title": "The Great Battle",
+              "titleKn": "ಮಹಾ ಯುದ್ಧ",
+              "image": "kumararama",
+              "content": "He led his army with great courage, showing exceptional leadership and bravery on the battlefield against overwhelming odds.",
+              "contentKn": "ಅವರು ತಮ್ಮ ಸೈನ್ಯವನ್ನು ಮಹಾನ್ ಧೈರ್ಯದಿಂದ ಮುನ್ನಡೆಸಿದರು, ಯುದ್ಧಭೂಮಿಯಲ್ಲಿ ಅಗಾಧವಾದ ಅಡೆತಡೆಗಳ ವಿರುದ್ಧ ಅಸಾಧಾರಣ ನಾಯಕತ್ವ ಮತ್ತು ಶೌರ್ಯವನ್ನು ಪ್ರದರ್ಶಿಸಿದರು."
+            },
+            {
+              "title": "Legacy of Valor",
+              "titleKn": "ಶೌರ್ಯದ ಪರಂಪರೆ",
+              "image": "kumararama",
+              "content": "His story of sacrifice and bravery continues to inspire the people of Ballari and remains a key part of local folklore.",
+              "contentKn": "ಅವರ ಬಲಿದಾನ ಮತ್ತು ಶೌರ್ಯದ ಕಥೆಯು ಬಳ್ಳಾರಿಯ ಜನರಿಗೆ ಸ್ಫೂರ್ತಿ ನೀಡುತ್ತಲೇ ಇದೆ ಮತ್ತು ಸ್ಥಳೀಯ ಜಾನಪದದ ಪ್ರಮುಖ ಭಾಗವಾಗಿ ಉಳಿದಿದೆ."
+            }
+          ],
+          "quiz": [
+            {
+              "question": "Where was Kumara Rama from?",
+              "questionKn": "ಕುಮಾರ ರಾಮ ಎಲ್ಲಿಯವರು?",
+              "options": ["Kampili", "Hampi", "Mysuru", "Bidar"],
+              "optionsKn": ["ಕಂಪಿಲಿ", "ಹಂಪಿ", "ಮೈಸೂರು", "ಬೀದರ್"],
+              "correctAnswerIndex": 0
+            }
+          ],
+          "statueLat": 15.1394,
+          "statueLng": 76.9243
+        }
+      ]
+    },
+    {
+      "name": "Belagavi",
+      "heroes": [
+        {
+          "id": "kitturchennamma",
+          "name": "Kittur Chennamma",
+          "nameKn": "ಕಿತ್ತೂರು ಚೆನ್ನಮ್ಮ",
+          "image": "chennamma",
+          "shortDescription": "Queen of Kittur.",
+          "shortDescriptionKn": "ಕಿತ್ತೂರಿನ ರಾಣಿ.",
+          "stories": [
+            {
+              "title": "First Freedom Fighter",
+              "titleKn": "ಮೊದಲ ಸ್ವಾತಂತ್ರ್ಯ ಹೋರಾಟಗಾರ್ತಿ",
+              "image": "chennamma",
+              "content": "Rani Chennamma of Kittur led an armed rebellion against the British East India Company in 1824 when they tried to seize her kingdom.",
+              "contentKn": "ಕಿತ್ತೂರಿನ ರಾಣಿ ಚೆನ್ನಮ್ಮ 1824 ರಲ್ಲಿ ಬ್ರಿಟಿಷ್ ಈಸ್ಟ್ ಇಂಡಿಯಾ ಕಂಪನಿಯು ಅವಳ ರಾಜ್ಯವನ್ನು ವಶಪಡಿಸಿಕೊಳ್ಳಲು ಪ್ರಯತ್ನಿಸಿದಾಗ ಅವರ ವಿರುದ್ಧ ಸಶಸ್ತ್ರ ಬಂಡಾಯದ ನೇತೃತ್ವ ವಹಿಸಿದ್ದರು."
+            },
+            {
+              "title": "Defiance and Strength",
+              "titleKn": "ಧಿಕ್ಕಾರ ಮತ್ತು ಶಕ್ತಿ",
+              "image": "chennamma",
+              "content": "She refused to accept the 'Doctrine of Lapse' and fought bravely, becoming one of the first female rulers to challenge British rule in India.",
+              "contentKn": "ಅವರು 'ದತ್ತು ಮಕ್ಕಳಿಗೆ ಹಕ್ಕಿಲ್ಲ' ಎಂಬ ನೀತಿಯನ್ನು ಸ್ವೀಕರಿಸಲು ನಿರಾಕರಿಸಿದರು ಮತ್ತು ಧೈರ್ಯದಿಂದ ಹೋರಾಡಿದರು, ಭಾರತದಲ್ಲಿ ಬ್ರಿಟಿಷ್ ಆಳ್ವಿಕೆಯನ್ನು ಸವಾಲು ಮಾಡಿದ ಮೊದಲ ಮಹಿಳಾ ಆಡಳಿತಗಾರರಲ್ಲಿ ಒಬ್ಬರಾದರು."
+            },
+            {
+              "title": "A Heroine Forever",
+              "titleKn": "ಶಾಶ್ವತ ನಾಯಕಿ",
+              "image": "chennamma",
+              "content": "Her legacy as a symbol of resistance and courage is celebrated annually in Kittur and across Karnataka.",
+              "contentKn": "ಪ್ರತಿರೋಧ ಮತ್ತು ಧೈರ್ಯದ ಸಂಕೇತವಾಗಿ ಅವರ ಪರಂಪರೆಯನ್ನು ಕಿತ್ತೂರು ಮತ್ತು ಕರ್ನಾಟಕದಾದ್ಯಂತ ವಾರ್ಷಿಕವಾಗಿ ಆಚರಿಸಲಾಗುತ್ತದೆ."
+            }
+          ],
+          "quiz": [
+            {
+              "question": "Which year did she fight the British?",
+              "questionKn": "ಅವರು ಬ್ರಿಟಿಷರ ವಿರುದ್ಧ ಹೋರಾಡಿದ ವರ್ಷ ಯಾವುದು?",
+              "options": ["1824", "1857", "1947", "1750"],
+              "optionsKn": ["1824", "1857", "1947", "1750"],
+              "correctAnswerIndex": 0
+            }
+          ],
+          "statueLat": 15.6033,
+          "statueLng": 74.7933
+        }
+      ]
+    },
+    {
+      "name": "Bengaluru Rural",
+      "heroes": [
+        {
+          "id": "magadi_kempegowda",
+          "name": "Magadi Kempegowda",
+          "nameKn": "ಮಾಗಡಿ ಕೆಂಪೇಗೌಡ",
+          "image": "kempegowda",
+          "shortDescription": "Successor of Kempe Gowda I.",
+          "shortDescriptionKn": "ಮೊದಲನೇ ಕೆಂಪೇಗೌಡರ ಉತ್ತರಾಧಿಕಾರಿ.",
+          "stories": [
+            {
+              "title": "Magadi Capital",
+              "titleKn": "ಮಾಗಡಿ ರಾಜಧಾನಿ",
+              "image": "kempegowda",
+              "content": "After the shift from Bengaluru, Magadi became the major center for the Kempegowda clan, serving as their capital.",
+              "contentKn": "ಬೆಂಗಳೂರಿನಿಂದ ಸ್ಥಳಾಂತರಗೊಂಡ ನಂತರ, ಮಾಗಡಿಯು ಕೆಂಪೇಗೌಡ ಕುಲದ ಪ್ರಮುಖ ಕೇಂದ್ರವಾಯಿತು, ಅವರ ರಾಜಧಾನಿಯಾಗಿ ಕಾರ್ಯನಿರ್ವಹಿಸಿತು."
+            },
+            {
+              "title": "Forts and Temples",
+              "titleKn": "ಕೋಟೆಗಳು ಮತ್ತು ದೇವಾಲಯಗಳು",
+              "image": "kempegowda",
+              "content": "He built several forts and temples in the region, contributing significantly to the architectural heritage of Bengaluru Rural.",
+              "contentKn": "ಅವರು ಈ ಪ್ರದೇಶದಲ್ಲಿ ಹಲವಾರು ಕೋಟೆಗಳನ್ನು ಮತ್ತು ದೇವಾಲಯಗಳನ್ನು ನಿರ್ಮಿಸಿದರು, ಬೆಂಗಳೂರು ಗ್ರಾಮಾಂತರದ ವಾಸ್ತುಶಿಲ್ಪದ ಪರಂಪರೆಗೆ ಗಣನೀಯ ಕೊಡುಗೆ ನೀಡಿದರು."
+            },
+            {
+              "title": "Administrative Wisdom",
+              "titleKn": "ಆಡಳಿತಾತ್ಮಕ ಬುದ್ಧಿವಂತಿಕೆ",
+              "image": "kempegowda",
+              "content": "Known for his administrative skills, he ensured efficient governance and the prosperity of the rural districts under his control.",
+              "contentKn": "ತಮ್ಮ ಆಡಳಿತಾತ್ಮಕ ಕೌಶಲ್ಯಗಳಿಗೆ ಹೆಸರುವಾಸಿಯಾದ ಅವರು, ತಮ್ಮ ನಿಯಂತ್ರಣದಲ್ಲಿರುವ ಗ್ರಾಮೀಣ ಜಿಲ್ಲೆಗಳ ಸಮರ್ಥ ಆಡಳಿತ ಮತ್ತು ಸಮೃದ್ಧಿಯನ್ನು ಖಚಿತಪಡಿಸಿದರು."
+            }
+          ],
+          "quiz": [
+            {
+              "question": "Which town was the capital?",
+              "questionKn": "ಯಾವ ಪಟ್ಟಣವು ರಾಜಧಾನಿಯಾಗಿತ್ತು?",
+              "options": ["Magadi", "Kolar", "Bidar", "Hassan"],
+              "optionsKn": ["ಮಾಗಡಿ", "ಕೋಲಾರ", "ಬೀದರ್", "ಹಾಸನ"],
+              "correctAnswerIndex": 0
+            }
+          ],
+          "statueLat": 12.9667,
+          "statueLng": 77.2333
+        }
+      ]
+    },
+    {
+      "name": "Bengaluru Urban",
+      "heroes": [
+        {
+          "id": "kempegowda",
+          "name": "Hiriye Kempe Gowda",
+          "nameKn": "ಹಿರಿಯ ಕೆಂಪೇಗೌಡ",
+          "image": "kempegowda",
+          "shortDescription": "Founder of Bengaluru.",
+          "shortDescriptionKn": "ಬೆಂಗಳೂರಿನ ಸಂಸ್ಥಾಪಕರು.",
+          "stories": [
+            {
+              "title": "Visionary Founder",
+              "titleKn": "ದೂರದೃಷ್ಟಿಯ ಸಂಸ್ಥಾಪಕ",
+              "image": "kempegowda",
+              "content": "Hiriye Kempe Gowda founded the city of Bengaluru in 1537, envisioning it as a commercial and cultural hub.",
+              "contentKn": "ಹಿರಿಯ ಕೆಂಪೇಗೌಡರು 1537 ರಲ್ಲಿ ಬೆಂಗಳೂರು ನಗರವನ್ನು ಸ್ಥಾಪಿಸಿದರು, ಇದನ್ನು ವಾಣಿಜ್ಯ ಮತ್ತು ಸಾಂಸ್ಕೃತಿಕ ಕೇಂದ್ರವನ್ನಾಗಿ ರೂಪಿಸುವ ದೂರದೃಷ್ಟಿ ಹೊಂದಿದ್ದರು."
+            },
+            {
+              "title": "Building the Pettas",
+              "titleKn": "ಪೇಟೆಗಳ ನಿರ್ಮಾಣ",
+              "image": "kempegowda",
+              "content": "He established various 'Pettas' or markets specialized in different trades, which laid the foundation for the city's economic growth.",
+              "contentKn": "ಅವರು ವಿವಿಧ ವ್ಯಾಪಾರಗಳಲ್ಲಿ ಪರಿಣತಿ ಹೊಂದಿರುವ ವಿವಿಧ 'ಪೇಟೆಗಳನ್ನು' ಅಥವಾ ಮಾರುಕಟ್ಟೆಗಳನ್ನು ಸ್ಥಾಪಿಸಿದರು, ಇದು ನಗರದ ಆರ್ಥಿಕ ಬೆಳವಣಿಗೆಗೆ ಅಡಿಪಾಯ ಹಾಕಿತು."
+            },
+            {
+              "title": "Lakes and Greenery",
+              "titleKn": "ಕೆರೆಗಳು ಮತ್ತು ಹಸಿರು",
+              "image": "kempegowda",
+              "content": "He was an environmentalist of his time, constructing numerous lakes and gardens to ensure water supply and a pleasant climate for the city.",
+              "contentKn": "ಅವರು ತಮ್ಮ ಕಾಲದ ಪರಿಸರವಾದಿಯಾಗಿದ್ದರು, ನಗರಕ್ಕೆ ನೀರಿನ ಸರಬರಾಜು ಮತ್ತು ಆಹ್ಲಾದಕರ ಹವಾಮಾನವನ್ನು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಲು ಹಲವಾರು ಕೆರೆಗಳನ್ನು ಮತ್ತು ಉದ್ಯಾನಗಳನ್ನು ನಿರ್ಮಿಸಿದರು."
+            }
+          ],
+          "quiz": [
+            {
+              "question": "Who founded Bengaluru?",
+              "questionKn": "ಬೆಂಗಳೂರನ್ನು ಯಾರು ಸ್ಥಾಪಿಸಿದರು?",
+              "options": ["Kempe Gowda", "Tipu Sultan", "Basavanna", "Kuvempu"],
+              "optionsKn": ["ಕೆಂಪೇಗೌಡ", "ಟಿಪ್ಪು ಸುಲ್ತಾನ್", "ಬಸವಣ್ಣ", "ಕುವೆಂಪು"],
+              "correctAnswerIndex": 0
+            }
+          ],
+          "statueLat": 12.9716,
+          "statueLng": 77.5946
+        }
+      ]
+    },
+    {
+      "name": "Bidar",
+      "heroes": [
+        {
+          "id": "mahmud_gawan",
+          "name": "Mahmud Gawan",
+          "nameKn": "ಮಹಮೂದ್ ಗವಾನ್",
+          "image": "gawan",
+          "shortDescription": "Great scholar and statesman.",
+          "shortDescriptionKn": "ಮಹಾನ್ ವಿದ್ವಾಂಸ ಮತ್ತು ರಾಜನೀತಿಜ್ಞ.",
+          "stories": [
+            {
+              "title": "The Madrasa",
+              "titleKn": "ಮದರಸಾ",
+              "image": "gawan",
+              "content": "Mahmud Gawan built a world-famous Madrasa in Bidar, which became a great center of learning in the 15th century.",
+              "contentKn": "ಮಹಮೂದ್ ಗವಾನ್ ಬೀದರ್‌ನಲ್ಲಿ ವಿಶ್ವಪ್ರಸಿದ್ಧ ಮದರಸಾವನ್ನು ನಿರ್ಮಿಸಿದರು, ಇದು 15 ನೇ ಶತಮಾನದಲ್ಲಿ ಮಹಾನ್ ಕಲಿಕಾ ಕೇಂದ್ರವಾಯಿತು."
+            },
+            {
+              "title": "A Great Administrator",
+              "titleKn": "ಮಹಾನ್ ಆಡಳಿತಗಾರ",
+              "image": "gawan",
+              "content": "He served as the Prime Minister of the Bahmani Sultanate, introducing many administrative and financial reforms.",
+              "contentKn": "ಅವರು ಬಹಮನಿ ಸುಲ್ತಾನರ ಪ್ರಧಾನ ಮಂತ್ರಿಯಾಗಿ ಸೇವೆ ಸಲ್ಲಿಸಿದರು, ಅನೇಕ ಆಡಳಿತಾತ್ಮಕ ಮತ್ತು ಆರ್ಥಿಕ ಸುಧಾರಣೆಗಳನ್ನು ಪರಿಚಯಿಸಿದರು."
+            },
+            {
+              "title": "Patron of Arts",
+              "titleKn": "ಕಲೆಗಳ ಪೋಷಕ",
+              "image": "gawan",
+              "content": "Gawan was a poet and a scholar himself, and he patronized many artists and writers, making Bidar a cultural capital.",
+              "contentKn": "ಗವಾನ್ ಸ್ವತಃ ಕವಿ ಮತ್ತು ವಿದ್ವಾಂಸರಾಗಿದ್ದರು, ಮತ್ತು ಅವರು ಅನೇಕ ಕಲಾವಿದರು ಮತ್ತು ಬರಹಗಾರರನ್ನು ಪೋಷಿಸಿದರು, ಬೀದರ್ ಅನ್ನು ಸಾಂಸ್ಕೃತಿಕ ರಾಜಧಾನಿಯನ್ನಾಗಿ ಮಾಡಿದರು."
+            }
+          ],
+          "quiz": [
+            {
+              "question": "What did Gawan build?",
+              "questionKn": "ಗವಾನ್ ಏನನ್ನು ನಿರ್ಮಿಸಿದರು?",
+              "options": ["Madrasa", "Temple", "Palace", "Bridge"],
+              "optionsKn": ["ಮದರಸಾ", "ದೇವಸ್ಥಾನ", "ಅರಮನೆ", "ಸೇತುವೆ"],
+              "correctAnswerIndex": 0
+            }
+          ],
+          "statueLat": 17.9143,
+          "statueLng": 77.5307
+        }
+      ]
+    },
+    {
+      "name": "Chamarajanagar",
+      "heroes": [
+        {
+          "id": "male_maheshwara",
+          "name": "Male Mahadeshwara",
+          "nameKn": "ಮಲೆ ಮಹದೇಶ್ವರ",
+          "image": "mahadeshwara",
+          "shortDescription": "Saint and social reformer.",
+          "shortDescriptionKn": "ಸಂತ ಮತ್ತು ಸಮಾಜ ಸುಧಾರಕ.",
+          "stories": [
+            {
+              "title": "The Seven Hills",
+              "titleKn": "ಏಳು ಬೆಟ್ಟಗಳು",
+              "image": "mahadeshwara",
+              "content": "Lord Mahadeshwara is a legendary saint who lived in the seven hills and worked for the spiritual and social welfare of the people.",
+              "contentKn": "ಮಹದೇಶ್ವರ ಸ್ವಾಮಿ ಏಳು ಬೆಟ್ಟಗಳಲ್ಲಿ ವಾಸಿಸುತ್ತಿದ್ದ ಮತ್ತು ಜನರ ಆಧ್ಯಾತ್ಮಿಕ ಮತ್ತು ಸಾಮಾಜಿಕ ಕಲ್ಯಾಣಕ್ಕಾಗಿ ಶ್ರಮಿಸಿದ ಪೌರಾಣಿಕ ಸಂತ."
+            },
+            {
+              "title": "Protector of Forest Dwellers",
+              "titleKn": "ಅರಣ್ಯವಾಸಿಗಳ ರಕ್ಷಕ",
+              "image": "mahadeshwara",
+              "content": "He is revered as the protector of the forest dwellers and the tribal communities in the Chamarajanagar region.",
+              "contentKn": "ಅವರನ್ನು ಚಾಮರಾಜನಗರ ಪ್ರದೇಶದ ಅರಣ್ಯವಾಸಿಗಳು ಮತ್ತು ಬುಡಕಟ್ಟು ಸಮುದಾಯಗಳ ರಕ್ಷಕ ಎಂದು ಪೂಜಿಸಲಾಗುತ್ತದೆ."
+            },
+            {
+              "title": "Miracles and Compassion",
+              "titleKn": "ಪವಾಡಗಳು ಮತ್ತು ಸಹಾನುಭೂತಿ",
+              "image": "mahadeshwara",
+              "content": "Many miracles are attributed to him, reflecting his deep compassion and divine power to help those in need.",
+              "contentKn": "ಅವರಿಗೆ ಅನೇಕ ಪವಾಡಗಳನ್ನು ಆರೋಪಿಸಲಾಗಿದೆ, ಇದು ಅಗತ್ಯವಿರುವವರಿಗೆ ಸಹಾಯ ಮಾಡುವ ಅವರ ಆಳವಾದ ಸಹಾನುಭೂತಿ ಮತ್ತು ದೈವಿಕ ಶಕ್ತಿಯನ್ನು ಪ್ರತಿಬಿಂಬಿಸುತ್ತದೆ."
+            }
+          ],
+          "quiz": [
+            {
+              "question": "Where is the shrine?",
+              "questionKn": "ಪುಣ್ಯಕ್ಷೇತ್ರ ಎಲ್ಲಿದೆ?",
+              "options": ["M.M. Hills", "Mysuru", "Hampi", "Kolar"],
+              "optionsKn": ["ಎಂ.ಎಂ. ಬೆಟ್ಟಗಳು", "ಮೈಸೂರು", "ಹಂಪಿ", "ಕೋಲಾರ"],
+              "correctAnswerIndex": 0
+            }
+          ],
+          "statueLat": 12.0401,
+          "statueLng": 77.5701
+        }
+      ]
+    },
+    {
+      "name": "Chikkaballapur",
+      "heroes": [
+        {
+          "id": "m_visvesvaraya",
+          "name": "Sir M. Visvesvaraya",
+          "nameKn": "ಸರ್ ಎಂ. ವಿಶ್ವೇಶ್ವರಯ್ಯ",
+          "image": "visvesvaraya",
+          "shortDescription": "Engineer and statesman.",
+          "shortDescriptionKn": "ಎಂಜಿನಿಯರ್ ಮತ್ತು ರಾಜನೀತಿಜ್ಞ.",
+          "stories": [
+            {
+              "title": "The Great Engineer",
+              "titleKn": "ಮಹಾನ್ ಎಂಜಿನಿಯರ್",
+              "image": "visvesvaraya",
+              "content": "Sir M. Visvesvaraya, born in Muddenahalli, was a world-renowned engineer and a great visionary statesman.",
+              "contentKn": "ಮುದ್ದೇನಹಳ್ಳಿಯಲ್ಲಿ ಜನಿಸಿದ ಸರ್ ಎಂ. ವಿಶ್ವೇಶ್ವರಯ್ಯನವರು ವಿಶ್ವಪ್ರಸಿದ್ಧ ಎಂಜಿನಿಯರ್ ಮತ್ತು ಮಹಾನ್ ದೂರದೃಷ್ಟಿಯ ರಾಜನೀತಿಜ್ಞರಾಗಿದ್ದರು."
+            },
+            {
+              "title": "Building Modern India",
+              "titleKn": "ಆಧುನಿಕ ಭಾರತದ ನಿರ್ಮಾಣ",
+              "image": "visvesvaraya",
+              "content": "He was the chief engineer of the Krishna Raja Sagara dam and played a key role in industrializing Mysore state.",
+              "contentKn": "ಅವರು ಕೃಷ್ಣರಾಜ ಸಾಗರ ಅಣೆಕಟ್ಟಿನ ಮುಖ್ಯ ಎಂಜಿನಿಯರ್ ಆಗಿದ್ದರು ಮತ್ತು ಮೈಸೂರು ರಾಜ್ಯದ ಕೈಗಾರಿಕೀಕರಣದಲ್ಲಿ ಪ್ರಮುಖ ಪಾತ್ರ ವಹಿಸಿದರು."
+            },
+            {
+              "title": "Integrity and Excellence",
+              "titleKn": "ಸಮಗ್ರತೆ ಮತ್ತು ಶ್ರೇಷ್ಠತೆ",
+              "image": "visvesvaraya",
+              "content": "Known for his extreme integrity and dedication, his birthday is celebrated as Engineers' Day in India.",
+              "contentKn": "ಅವರ ಅತ್ಯಂತ ಸಮಗ್ರತೆ ಮತ್ತು ಸಮರ್ಪಣಾ ಭಾವಕ್ಕೆ ಹೆಸರಾದ ಅವರ ಜನ್ಮದಿನವನ್ನು ಭಾರತದಲ್ಲಿ ಎಂಜಿನಿಯರ್‌ಗಳ ದಿನವಾಗಿ ಆಚರಿಸಲಾಗುತ್ತದೆ."
+            }
+          ],
+          "quiz": [
+            {
+              "question": "What is his birthday celebrated as?",
+              "questionKn": "ಅವರ ಜನ್ಮದಿನವನ್ನು ಏನಾಗಿ ಆಚರಿಸಲಾಗುತ್ತದೆ?",
+              "options": ["Engineers Day", "Teachers Day", "Farmers Day", "Youth Day"],
+              "optionsKn": ["ಎಂಜಿನಿಯರ್ ದಿನ", "ಶಿಕ್ಷಕರ ದಿನ", "ರೈತ ದಿನ", "ಯುವ ದಿನ"],
+              "correctAnswerIndex": 0
+            }
+          ],
+          "statueLat": 13.4333,
+          "statueLng": 77.7289
+        }
+      ]
+    },
+    {
+      "name": "Chikkamagaluru",
+      "heroes": [
+        {
+          "id": "baba_budan",
+          "name": "Baba Budan",
+          "nameKn": "ಬಾಬಾ ಬುಡನ್",
+          "image": "bababudan",
+          "shortDescription": "Brought coffee to India.",
+          "shortDescriptionKn": "ಭಾರತಕ್ಕೆ ಕಾಫಿಯನ್ನು ತಂದರು.",
+          "stories": [
+            {
+              "title": "Seven Coffee Beans",
+              "titleKn": "ಏಳು ಕಾಫಿ ಬೀಜಗಳು",
+              "image": "bababudan",
+              "content": "Baba Budan was a 17th-century Sufi saint who brought seven coffee beans from Yemen while returning from Haj.",
+              "contentKn": "ಬಾಬಾ ಬುಡನ್ 17 ನೇ ಶತಮಾನದ ಸೂಫಿ ಸಂತ, ಅವರು ಹಜ್‌ನಿಂದ ಹಿಂದಿರುಗುವಾಗ ಯೆಮೆನ್‌ನಿಂದ ಏಳು ಕಾಫಿ ಬೀಜಗಳನ್ನು ತಂದರು."
+            },
+            {
+              "title": "First Coffee Plantation",
+              "titleKn": "ಮೊದಲ ಕಾಫಿ ತೋಟ",
+              "image": "bababudan",
+              "content": "He planted these beans in the hills of Chikkamagaluru, which are now named after him as Baba Budan Giri.",
+              "contentKn": "ಅವರು ಈ ಬೀಜಗಳನ್ನು ಚಿಕ್ಕಮಗಳೂರಿನ ಬೆಟ್ಟಗಳಲ್ಲಿ ನೆಟ್ಟರು, ಈಗ ಅವುಗಳಿಗೆ ಅವರ ಹೆಸರನ್ನೇ ಬಾಬಾ ಬುಡನ್ ಗಿರಿ ಎಂದು ಇಡಲಾಗಿದೆ."
+            },
+            {
+              "title": "Legacy of Aroma",
+              "titleKn": "ಸುಗಂಧದ ಪರಂಪರೆ",
+              "image": "bababudan",
+              "content": "This marked the beginning of coffee cultivation in India, making Chikkamagaluru the coffee capital of the country.",
+              "contentKn": "ಇದು ಭಾರತದಲ್ಲಿ ಕಾಫಿ ಕೃಷಿಯ ಆರಂಭವನ್ನು ಗುರುತಿಸಿತು, ಚಿಕ್ಕಮಗಳೂರನ್ನು ದೇಶದ ಕಾಫಿ ರಾಜಧಾನಿಯನ್ನಾಗಿ ಮಾಡಿತು."
+            }
+          ],
+          "quiz": [
+            {
+              "question": "What did he bring from Yemen?",
+              "questionKn": "ಅವರು ಯೆಮೆನ್‌ನಿಂದ ಏನನ್ನು ತಂದರು?",
+              "options": ["Coffee", "Tea", "Pepper", "Silk"],
+              "optionsKn": ["ಕಾಫಿ", "ಚಹಾ", "ಮೆಣಸು", "ರೇಷ್ಮೆ"],
+              "correctAnswerIndex": 0
+            }
+          ],
+          "statueLat": 13.4219,
+          "statueLng": 75.7642
+        }
+      ]
+    },
+    {
+      "name": "Chitradurga",
+      "heroes": [
+        {
+          "id": "obavva",
+          "name": "Onake Obavva",
+          "nameKn": "ಓಬವ್ವ",
+          "image": "obavva",
+          "shortDescription": "Brave woman who fought Hyder Ali's forces.",
+          "shortDescriptionKn": "ಹೈದರ್ ಅಲಿಯ ಪಡೆಗಳ ವಿರುದ್ಧ ಹೋರಾಡಿದ ವೀರ ಮಹಿಳೆ.",
+          "stories": [
+            {
+              "title": "The Pestle Warrior",
+              "titleKn": "ಒನಕೆ ಯೋಧ",
+              "image": "obavva",
+              "content": "Onake Obavva was a brave woman who single-handedly fought against Hyder Ali's soldiers using a pestle (Onake).",
+              "contentKn": "ಒನಕೆ ಓಬವ್ವ ಕೇವಲ ಒನಕೆಯನ್ನು ಬಳಸಿ ಹೈದರ್ ಅಲಿಯ ಸೈನಿಕರ ವಿರುದ್ಧ ಏಕಾಂಗಿಯಾಗಿ ಹೋರಾಡಿದ ವೀರ ಮಹಿಳೆ."
+            },
+            {
+              "title": "The Secret Hole",
+              "titleKn": "ರಹಸ್ಯ ಕಿಂಡಿ",
+              "image": "obavva",
+              "content": "She discovered enemy soldiers sneaking through a narrow hole in the Chitradurga fort and killed them one by one.",
+              "contentKn": "ಚಿತ್ರದುರ್ಗದ ಕೋಟೆಯ ಕಿರಿದಾದ ಕಿಂಡಿಯ ಮೂಲಕ ಶತ್ರು ಸೈನಿಕರು ನುಸುಳುತ್ತಿರುವುದನ್ನು ಕಂಡು ಅವಳು ಒಬ್ಬೊಬ್ಬರನ್ನಾಗಿ ಕೊಂದಳು."
+            },
+            {
+              "title": "Symbol of Courage",
+              "titleKn": "ಧೈರ್ಯದ ಸಂಕೇತ",
+              "image": "obavva",
+              "content": "Her bravery saved the fort for a time and she is celebrated as a symbol of female courage and patriotism in Karnataka.",
+              "contentKn": "ಅವಳ ಶೌರ್ಯವು ಕೋಟೆಯನ್ನು ಸ್ವಲ್ಪ ಸಮಯದವರೆಗೆ ರಕ್ಷಿಸಿತು ಮತ್ತು ಅವಳನ್ನು ಕರ್ನಾಟಕದಲ್ಲಿ ಸ್ತ್ರೀ ಧೈರ್ಯ ಮತ್ತು ದೇಶಭಕ್ತಿಯ ಸಂಕೇತವಾಗಿ ಆಚರಿಸಲಾಗುತ್ತದೆ."
+            }
+          ],
+          "quiz": [
+            {
+              "question": "What weapon did Obavva use?",
+              "questionKn": "ಓಬವ್ವ ಯಾವ ಆಯುಧವನ್ನು ಬಳಸಿದಳು?",
+              "options": ["Pestle", "Sword", "Bow", "Shield"],
+              "optionsKn": ["ಒನಕೆ", "ಕತ್ತಿ", "ಬಿಲ್ಲು", "ಗುರಾಣಿ"],
+              "correctAnswerIndex": 0
+            }
+          ],
+          "statueLat": 14.2333,
+          "statueLng": 76.4000
+        }
+      ]
+    },
+    {
+      "name": "Dakshina Kannada",
+      "heroes": [
+        {
+          "id": "rani_abbakka",
+          "name": "Rani Abbakka Chowta",
+          "nameKn": "ರಾಣಿ ಅಬ್ಬಕ್ಕ ಚೌಟ",
+          "image": "abbakka",
+          "shortDescription": "Queen of Ullal.",
+          "shortDescriptionKn": "ಉಳ್ಳಾಲದ ರಾಣಿ.",
+          "stories": [
+            {
+              "title": "Fearless Queen",
+              "titleKn": "ನಿರ್ಭೀತ ರಾಣಿ",
+              "image": "abbakka",
+              "content": "Rani Abbakka Chowta was the Queen of Ullal who bravely fought against the Portuguese for over four decades.",
+              "contentKn": "ರಾಣಿ ಅಬ್ಬಕ್ಕ ಚೌಟ ಉಳ್ಳಾಲದ ರಾಣಿಯಾಗಿದ್ದು, ಅವರು ನಾಲ್ಕು ದಶಕಗಳಿಗೂ ಹೆಚ್ಚು ಕಾಲ ಪೋರ್ಚುಗೀಸರ ವಿರುದ್ಧ ಶೌರ್ಯದಿಂದ ಹೋರಾಡಿದರು."
+            },
+            {
+              "title": "The First Tuluva Queen",
+              "titleKn": "ಮೊದಲ ತುಳುವ ರಾಣಿ",
+              "image": "abbakka",
+              "content": "She was one of the first Indian rulers to resist colonial power, leading her troops into battle with great strategy.",
+              "contentKn": "ವಸಾಹತುಶಾಹಿ ಶಕ್ತಿಯನ್ನು ಪ್ರತಿರೋಧಿಸಿದ ಮೊದಲ ಭಾರತೀಯ ಆಡಳಿತಗಾರರಲ್ಲಿ ಇವರು ಒಬ್ಬರಾಗಿದ್ದು, ತಮ್ಮ ಸೈನ್ಯವನ್ನು ಮಹಾನ್ ತಂತ್ರದೊಂದಿಗೆ ಯುದ್ಧಕ್ಕೆ ಮುನ್ನಡೆಸಿದರು."
+            },
+            {
+              "title": "Agnivana Expert",
+              "titleKn": "ಅಗ್ನಿಬಾಣದ ತಜ್ಞೆ",
+              "image": "abbakka",
+              "content": "Known for using 'Agnivana' (fire arrows) to destroy Portuguese ships, she earned the title 'Abhaya Rani' or the fearless queen.",
+              "contentKn": "ಪೋರ್ಚುಗೀಸ್ ಹಡಗುಗಳನ್ನು ನಾಶಮಾಡಲು 'ಅಗ್ನಿಬಾಣ'ಗಳನ್ನು ಬಳಸಿದ್ದಕ್ಕಾಗಿ ಹೆಸರುವಾಸಿಯಾದ ಅವರು 'ಅಭಯ ರಾಣಿ' ಎಂಬ ಬಿರುದನ್ನು ಗಳಿಸಿದರು."
+            }
+          ],
+          "quiz": [
+            {
+              "question": "Which kingdom did she rule?",
+              "questionKn": "ಅವರು ಯಾವ ರಾಜ್ಯವನ್ನು ಆಳಿದರು?",
+              "options": ["Ullal", "Mysuru", "Bidar", "Kolar"],
+              "optionsKn": ["ಉಳ್ಳಾಲ", "ಮೈಸೂರು", "ಬೀದರ್", "ಕೋಲಾರ"],
+              "correctAnswerIndex": 0
+            }
+          ],
+          "statueLat": 12.8333,
+          "statueLng": 74.8500
+        }
+      ]
+    },
+    {
+      "name": "Davanagere",
+      "heroes": [
+        {
+          "id": "shamanuru",
+          "name": "S. S. Mallikarjun",
+          "nameKn": "ಎಸ್. ಎಸ್. ಮಲ್ಲಿಕಾರ್ಜುನ್",
+          "image": "mallikarjun",
+          "shortDescription": "Social leader of the district.",
+          "shortDescriptionKn": "ಜಿಲ್ಲೆಯ ಸಾಮಾಜಿಕ ನಾಯಕ.",
+          "stories": [
+            {
+              "title": "District Growth",
+              "titleKn": "ಜಿಲ್ಲಾ ಬೆಳವಣಿಗೆ",
+              "image": "davanagere",
+              "content": "S. S. Mallikarjun has been a prominent social and political leader, significantly contributing to the development of Davanagere.",
+              "contentKn": "ಎಸ್. ಎಸ್. ಮಲ್ಲಿಕಾರ್ಜುನ್ ಅವರು ಪ್ರಮುಖ ಸಾಮಾಜಿಕ ಮತ್ತು ರಾಜಕೀಯ ನಾಯಕರಾಗಿದ್ದು, ದಾವಣಗೆರೆಯ ಅಭಿವೃದ್ಧಿಗೆ ಗಣನೀಯ ಕೊಡುಗೆ ನೀಡಿದ್ದಾರೆ."
+            },
+            {
+              "title": "Education and Health",
+              "titleKn": "ಶಿಕ್ಷಣ ಮತ್ತು ಆರೋಗ್ಯ",
+              "image": "davanagere",
+              "content": "He has played a vital role in establishing educational and healthcare institutions that serve thousands in the district.",
+              "contentKn": "ಜಿಲ್ಲೆಯ ಸಾವಿರಾರು ಜನರಿಗೆ ಸೇವೆ ಸಲ್ಲಿಸುವ ಶಿಕ್ಷಣ ಮತ್ತು ಆರೋಗ್ಯ ಸಂಸ್ಥೆಗಳನ್ನು ಸ್ಥಾಪಿಸುವಲ್ಲಿ ಅವರು ಪ್ರಮುಖ ಪಾತ್ರ ವಹಿಸಿದ್ದಾರೆ."
+            },
+            {
+              "title": "Industrial Vision",
+              "titleKn": "ಕೈಗಾರಿಕಾ ದೃಷ್ಟಿಕೋನ",
+              "image": "davanagere",
+              "content": "As a leader, he has promoted industrial growth, helping Davanagere earn the name 'Manchester of Karnataka'.",
+              "contentKn": "ಒಬ್ಬ ನಾಯಕನಾಗಿ, ಅವರು ಕೈಗಾರಿಕಾ ಬೆಳವಣಿಗೆಯನ್ನು ಉತ್ತೇಜಿಸಿದ್ದಾರೆ, ದಾವಣಗೆರೆಗೆ 'ಕರ್ನಾಟಕದ ಮ್ಯಾಂಚೆಸ್ಟರ್' ಎಂಬ ಹೆಸರು ಬರಲು ಸಹಾಯ ಮಾಡಿದ್ದಾರೆ."
+            }
+          ],
+          "quiz": [
+            {
+              "question": "What is Davanagere famous for?",
+              "questionKn": "ದಾವಣಗೆರೆ ಯಾವುದಕ್ಕೆ ಪ್ರಸಿದ್ಧವಾಗಿದೆ?",
+              "options": ["Benne Dosa", "Coffee", "Tea", "Silk"],
+              "optionsKn": ["ಬೆಣ್ಣೆ ದೋಸೆ", "ಕಾಫಿ", "ಚಹಾ", "ರೇಷ್ಮೆ"],
+              "correctAnswerIndex": 0
+            }
+          ],
+          "statueLat": 14.4667,
+          "statueLng": 75.9167
+        }
+      ]
+    },
+    {
+      "name": "Dharwad",
+      "heroes": [
+        {
+          "id": "bendre",
+          "name": "D. R. Bendre",
+          "nameKn": "ದ. ರಾ. ಬೇಂದ್ರೆ",
+          "image": "bendre",
+          "shortDescription": "Legendary Kannada poet.",
+          "shortDescriptionKn": "ಕನ್ನಡದ ಪೌರಾಣಿಕ ಕವಿ.",
+          "stories": [
+            {
+              "title": "Ambikatanayadatta",
+              "titleKn": "ಅಂಬಿಕಾತನಯದತ್ತ",
+              "image": "bendre",
+              "content": "D. R. Bendre, writing under the pen name 'Ambikatanayadatta', was one of the greatest Kannada poets of the 20th century.",
+              "contentKn": "ದ. ರಾ. ಬೇಂದ್ರೆಯವರು 'ಅಂಬಿಕಾತನಯದತ್ತ' ಎಂಬ ಕಾವ್ಯನಾಮದಲ್ಲಿ ಬರೆಯುತ್ತಿದ್ದರು, ಇವರು 20 ನೇ ಶತಮಾನದ ಶ್ರೇಷ್ಠ ಕನ್ನಡ ಕವಿಗಳಲ್ಲಿ ಒಬ್ಬರಾಗಿದ್ದರು."
+            },
+            {
+              "title": "Jnanpith Awardee",
+              "titleKn": "ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ವಿಜೇತ",
+              "image": "bendre",
+              "content": "He received the Jnanpith Award for his poetry collection 'Nakutanti', reflecting his deep philosophical and lyrical genius.",
+              "contentKn": "ಅವರು ತಮ್ಮ 'ನಾಕುತಂತಿ' ಕವನ ಸಂಕಲನಕ್ಕಾಗಿ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿಯನ್ನು ಪಡೆದರು, ಇದು ಅವರ ಆಳವಾದ ದಾರ್ಶನಿಕ ಮತ್ತು ಭಾವಗೀತಾತ್ಮಕ ಪ್ರತಿಭೆಯನ್ನು ಪ್ರತಿಬಿಂಬಿಸುತ್ತದೆ."
+            },
+            {
+              "title": "The Poet of Dharwad",
+              "titleKn": "ಧಾರವಾಡದ ಕವಿ",
+              "image": "bendre",
+              "content": "His poems are deeply rooted in the culture and soil of Dharwad, celebrating nature, life, and the human spirit.",
+              "contentKn": "ಅವರ ಕವಿತೆಗಳು ಧಾರವಾಡದ ಸಂಸ್ಕೃತಿ ಮತ್ತು ಮಣ್ಣಿನಲ್ಲಿ ಆಳವಾಗಿ ಬೇರೂರಿದ್ದು, ಪ್ರಕೃತಿ, ಜೀವನ ಮತ್ತು ಮಾನವ ಚೇತನವನ್ನು ಆಚರಿಸುತ್ತವೆ."
+            }
+          ],
+          "quiz": [
+            {
+              "question": "What was Bendre's pen name?",
+              "questionKn": "ಬೇಂದ್ರೆಯವರ ಕಾವ್ಯನಾಮ ಯಾವುದು?",
+              "options": ["Ambikatanayadatta", "Kuvempu", "Beechi", "Chutuku"],
+              "optionsKn": ["ಅಂಬಿಕಾತನಯದತ್ತ", "ಕುವೆಂಪು", "ಬೀಚಿ", "ಚುಟುಕು"],
+              "correctAnswerIndex": 0
+            }
+          ],
+          "statueLat": 15.4500,
+          "statueLng": 75.0000
+        }
+      ]
+    },
+    {
+      "name": "Gadag",
+      "heroes": [
+        {
+          "id": "kumaravyasa",
+          "name": "Kumaravyasa",
+          "nameKn": "ಕುಮಾರವ್ಯಾಸ",
+          "image": "kumaravyasa",
+          "shortDescription": "Author of Karnata Bharata Kathamanjari.",
+          "shortDescriptionKn": "ಕರ್ಣಾಟ ಭಾರತ ಕಥಾಮಂಜರಿಯ ಲೇಖಕ.",
+          "stories": [
+            {
+              "title": "Gadayugga",
+              "titleKn": "ಗದಾಯುದ್ಧ",
+              "image": "kumaravyasa",
+              "content": "Kumaravyasa is the pen name of Naranappa, the legendary poet who wrote the Kannada version of the Mahabharata.",
+              "contentKn": "ಕುಮಾರವ್ಯಾಸ ಎಂಬುದು ಮಹಾಭಾರತದ ಕನ್ನಡ ಆವೃತ್ತಿಯನ್ನು ಬರೆದ ಪೌರಾಣಿಕ ಕವಿ ನಾರಣಪ್ಪನವರ ಕಾವ್ಯನಾಮವಾಗಿದೆ."
+            },
+            {
+              "title": "Karnata Bharata Kathamanjari",
+              "titleKn": "ಕರ್ಣಾಟ ಭಾರತ ಕಥಾಮಂಜರಿ",
+              "image": "kumaravyasa",
+              "content": "His work, 'Karnata Bharata Kathamanjari', is a masterpiece of Kannada literature, written in the unique 'Bhamini Shatpadi' meter.",
+              "contentKn": "ಅವರ ಕೃತಿ 'ಕರ್ಣಾಟ ಭಾರತ ಕಥಾಮಂಜರಿ' ಕನ್ನಡ ಸಾಹಿತ್ಯದ ಒಂದು ಶ್ರೇಷ್ಠ ಕೃತಿಯಾಗಿದ್ದು, ಇದನ್ನು ವಿಶಿಷ್ಟವಾದ 'ಭಾಮಿನಿ ಷಟ್ಪದಿ' ಛಂದಸ್ಸಿನಲ್ಲಿ ಬರೆಯಲಾಗಿದೆ."
+            },
+            {
+              "title": "Devotion to Gadag",
+              "titleKn": "ಗದಗಿನ ಭಕ್ತಿ",
+              "image": "kumaravyasa",
+              "content": "He is said to have composed his epic in front of the Veera Narayana temple in Gadag, drawing divine inspiration for his verses.",
+              "contentKn": "ಅವರು ಗದಗಿನ ವೀರನಾರಾಯಣ ದೇವಸ್ಥಾನದ ಮುಂದೆ ಕುಳಿತು ತಮ್ಮ ಮಹಾಕಾವ್ಯವನ್ನು ರಚಿಸಿದರು ಎಂದು ಹೇಳಲಾಗುತ್ತದೆ, ತಮ್ಮ ಪದ್ಯಗಳಿಗೆ ದೈವಿಕ ಸ್ಫೂರ್ತಿಯನ್ನು ಪಡೆದರು."
+            }
+          ],
+          "quiz": [
+            {
+              "question": "Which epic did he write in Kannada?",
+              "questionKn": "ಅವರು ಕನ್ನಡದಲ್ಲಿ ಯಾವ ಮಹಾಕಾವ್ಯವನ್ನು ಬರೆದಿದ್ದಾರೆ?",
+              "options": ["Mahabharata", "Ramayana", "Iliad", "Odyssey"],
+              "optionsKn": ["ಮಹಾಭಾರತ", "ರಾಮಾಯಣ", "ಇಲಿಯಡ್", "ಒಡಿಸ್ಸಿ"],
+              "correctAnswerIndex": 0
+            }
+          ],
+          "statueLat": 15.4167,
+          "statueLng": 75.6167
+        }
+      ]
+    },
+    {
+      "name": "Hassan",
+      "heroes": [
+        {
+          "id": "shantala",
+          "name": "Rani Shantala",
+          "nameKn": "ರಾಣಿ ಶಾಂತಲೆ",
+          "image": "shantala",
+          "shortDescription": "Queen of the Hoysala Empire.",
+          "shortDescriptionKn": "ಹೊಯ್ಸಳ ಸಾಮ್ರಾಜ್ಯದ ರಾಣಿ.",
+          "stories": [
+            {
+              "title": "Dance and Art",
+              "titleKn": "ನೃತ್ಯ ಮತ್ತು ಕಲೆ",
+              "image": "shantala",
+              "content": "Rani Shantala Devi, the queen of King Vishnuvardhana, was a legendary beauty and a master of classical dance and music.",
+              "contentKn": "ರಾಜ ವಿಷ್ಣುವರ್ಧನನ ರಾಣಿ ಶಾಂತಲಾ ದೇವಿ ಪೌರಾಣಿಕ ಸೌಂದರ್ಯವತಿ ಮತ್ತು ಶಾಸ್ತ್ರೀಯ ನೃತ್ಯ ಮತ್ತು ಸಂಗೀತದಲ್ಲಿ ಪರಿಣಿತರಾಗಿದ್ದರು."
+            },
+            {
+              "title": "The Dancing Queen",
+              "titleKn": "ನರ್ತಿಸುವ ರಾಣಿ",
+              "image": "shantala",
+              "content": "She inspired many of the exquisite sculptures in the Belur and Halebidu temples, which are masterpieces of Hoysala art.",
+              "contentKn": "ಅವರು ಬೇಲೂರು ಮತ್ತು ಹಳೇಬೀಡು ದೇವಾಲಯಗಳ ಅನೇಕ ಸೊಗಸಾದ ಶಿಲ್ಪಗಳಿಗೆ ಸ್ಫೂರ್ತಿ ನೀಡಿದರು, ಅವು ಹೊಯ್ಸಳ ಕಲೆಯ ಶ್ರೇಷ್ಠ ಕೃತಿಗಳಾಗಿವೆ."
+            },
+            {
+              "title": "Patron of Faith",
+              "titleKn": "ನಂಬಿಕೆಯ ಪೋಷಕಿ",
+              "image": "shantala",
+              "content": "While her husband converted to Vaishnavism, she remained a devout Jain, showing great religious tolerance and wisdom.",
+              "contentKn": "ಅವಳ ಪತಿ ವೈಷ್ಣವ ಧರ್ಮಕ್ಕೆ ಮತಾಂತರಗೊಂಡರೆ, ಅವಳು ಧರ್ಮನಿಷ್ಠ ಜೈನ ಧರ್ಮೀಯಳಾಗಿಯೇ ಉಳಿದು, ಮಹಾನ್ ಧಾರ್ಮಿಕ ಸಹಿಷ್ಣುತೆ ಮತ್ತು ಬುದ್ಧಿವಂತಿಕೆಯನ್ನು ಪ್ರದರ್ಶಿಸಿದಳು."
+            }
+          ],
+          "quiz": [
+            {
+              "question": "Which empire did she belong to?",
+              "questionKn": "ಅವರು ಯಾವ ಸಾಮ್ರಾಜ್ಯಕ್ಕೆ ಸೇರಿದವರು?",
+              "options": ["Hoysala", "Kadamba", "Chalukya", "Vijayanagara"],
+              "optionsKn": ["ಹೊಯ್ಸಳ", "ಕದಂಬ", "ಚಾಲುಕ್ಯ", "ವಿಜಯನಗರ"],
+              "correctAnswerIndex": 0
+            }
+          ],
+          "statueLat": 13.0667,
+          "statueLng": 76.1000
+        }
+      ]
+    },
+    {
+      "name": "Haveri",
+      "heroes": [
+        {
+          "id": "kanakadasa",
+          "name": "Kanakadasa",
+          "nameKn": "ಕನಕದಾಸ",
+          "image": "kanakadasa",
+          "shortDescription": "Saint and poet.",
+          "shortDescriptionKn": "ಸಂತ ಮತ್ತು ಕವಿ.",
+          "stories": [
+            {
+              "title": "Kanakana Kindi",
+              "titleKn": "ಕನಕನ ಕಿಂಡಿ",
+              "image": "kanakadasa",
+              "content": "Kanakadasa was a great saint and philosopher who expressed deep devotion through his Haridasa literature.",
+              "contentKn": "ಕನಕದಾಸರು ತಮ್ಮ ಹರಿದಾಸ ಸಾಹಿತ್ಯದ ಮೂಲಕ ಆಳವಾದ ಭಕ್ತಿಯನ್ನು ವ್ಯಕ್ತಪಡಿಸಿದ ಮಹಾನ್ ಸಂತ ಮತ್ತು ದಾರ್ಶನಿಕರಾಗಿದ್ದರು."
+            },
+            {
+              "title": "The Miracle of Udupi",
+              "titleKn": "ಉಡುಪಿಯ ಪವಾಡ",
+              "image": "kanakadasa",
+              "content": "Denied entry to the Udupi temple, he prayed outside until the idol of Lord Krishna turned around to face him through a small crack.",
+              "contentKn": "ಉಡುಪಿ ದೇವಸ್ಥಾನಕ್ಕೆ ಪ್ರವೇಶ ನಿರಾಕರಿಸಲ್ಪಟ್ಟಾಗ, ಅವರು ಹೊರಗಡೆ ಪ್ರಾರ್ಥಿಸಿದರು ಮತ್ತು ಕೃಷ್ಣನ ವಿಗ್ರಹವು ಸಣ್ಣ ಕಿಂಡಿಯ ಮೂಲಕ ಅವರ ಕಡೆಗೆ ತಿರುಗಿತು."
+            },
+            {
+              "title": "Social Reformer",
+              "titleKn": "ಸಮಾಜ ಸುಧಾರಕ",
+              "image": "kanakadasa",
+              "content": "Through his verses like 'Kula Kula Kulavendu Hodedadadiru', he challenged the caste system and promoted social equality.",
+              "contentKn": "'ಕುಲ ಕುಲ ಕುಲವೆಂದು ಹೊಡೆದಾಡದಿರು' ಎಂಬಂತಹ ತಮ್ಮ ಪದ್ಯಗಳ ಮೂಲಕ ಅವರು ಜಾತಿ ಪದ್ಧತಿಯನ್ನು ಸವಾಲು ಮಾಡಿದರು ಮತ್ತು ಸಾಮಾಜಿಕ ಸಮಾನತೆಯನ್ನು ಉತ್ತೇಜಿಸಿದರು."
+            }
+          ],
+          "quiz": [
+            {
+              "question": "Where was Kanakadasa born?",
+              "questionKn": "ಕನಕದಾಸರು ಎಲ್ಲಿ ಜನಿಸಿದರು?",
+              "options": ["Bada", "Mysuru", "Kolar", "Bidar"],
+              "optionsKn": ["ಬಾಡ", "ಮೈಸೂರು", "ಕೋಲಾರ", "ಬೀದರ್"],
+              "correctAnswerIndex": 0
+            }
+          ],
+          "statueLat": 14.8000,
+          "statueLng": 75.4000
+        }
+      ]
+    },
+    {
+      "name": "Kalaburagi",
+      "heroes": [
+        {
+          "id": "bande_nawaz",
+          "name": "Sufi Bande Nawaz",
+          "nameKn": "ಬಂದೇ ನವಾಜ್",
+          "image": "bandenawaz",
+          "shortDescription": "Famous Sufi saint.",
+          "shortDescriptionKn": "ಪ್ರಸಿದ್ಧ ಸೂಫಿ ಸಂತ.",
+          "stories": [
+            {
+              "title": "Sufi Wisdom",
+              "titleKn": "ಸೂಫಿ ಬುದ್ಧಿವಂತಿಕೆ",
+              "image": "bandenawaz",
+              "content": "Hazrat Khwaja Bande Nawaz was a great Sufi saint of the Chishti Order who settled in Kalaburagi in the 14th century.",
+              "contentKn": "ಹಜರತ್ ಖ್ವಾಜಾ ಬಂದೇ ನವಾಜ್ ಅವರು ಚಿಸ್ತಿ ಪಂಥದ ಮಹಾನ್ ಸೂಫಿ ಸಂತರು, ಇವರು 14 ನೇ ಶತಮಾನದಲ್ಲಿ ಕಲಬುರಗಿಯಲ್ಲಿ ನೆಲೆಸಿದರು."
+            },
+            {
+              "title": "Communal Harmony",
+              "titleKn": "ಕೋಮು ಸೌಹಾರ್ದತೆ",
+              "image": "bandenawaz",
+              "content": "He promoted the values of love, peace, and tolerance, attracting followers from all religions and walks of life.",
+              "contentKn": "ಅವರು ಪ್ರೀತಿ, ಶಾಂತಿ ಮತ್ತು ಸಹಿಷ್ಣುತೆಯ ಮೌಲ್ಯಗಳನ್ನು ಉತ್ತೇಜಿಸಿದರು, ಎಲ್ಲಾ ಧರ್ಮಗಳ ಮತ್ತು ಜೀವನದ ಎಲ್ಲಾ ವರ್ಗಗಳ ಅನುಯಾಯಿಗಳನ್ನು ಆಕರ್ಷಿಸಿದರು."
+            },
+            {
+              "title": "Literary Contribution",
+              "titleKn": "ಸಾಹಿತ್ಯಿಕ ಕೊಡುಗೆ",
+              "image": "bandenawaz",
+              "content": "A prolific writer, he contributed significantly to Sufi literature in Persian, Arabic, and early Urdu (Deccani).",
+              "contentKn": "ಫಲಪ್ರದ ಬರಹಗಾರರಾದ ಅವರು ಪರ್ಷಿಯನ್, ಅರೇಬಿಕ್ ಮತ್ತು ಆರಂಭಿಕ ಉರ್ದು (ದಖನಿ) ಭಾಷೆಯಲ್ಲಿ ಸೂಫಿ ಸಾಹಿತ್ಯಕ್ಕೆ ಗಣನೀಯ ಕೊಡುಗೆ ನೀಡಿದ್ದಾರೆ."
+            }
+          ],
+          "quiz": [
+            {
+              "question": "Where is his Dargah?",
+              "questionKn": "ಅವರ ದರ್ಗಾ ಎಲ್ಲಿದೆ?",
+              "options": ["Kalaburagi", "Bidar", "Kolar", "Hassan"],
+              "optionsKn": ["ಕಲಬುರಗಿ", "ಬೀದರ್", "ಕೋಲಾರ", "ಹಾಸನ"],
+              "correctAnswerIndex": 0
+            }
+          ],
+          "statueLat": 17.3333,
+          "statueLng": 76.8333
+        }
+      ]
+    },
+    {
+      "name": "Kodagu",
+      "heroes": [
+        {
+          "id": "cariappa",
+          "name": "Field Marshal K. M. Cariappa",
+          "nameKn": "ಫೀಲ್ಡ್ ಮಾರ್ಷಲ್ ಕೆ. ಎಂ. ಕಾರ್ಯಪ್ಪ",
+          "image": "cariappa",
+          "shortDescription": "First Indian Commander-in-Chief.",
+          "shortDescriptionKn": "ಮೊದಲ ಭಾರತೀಯ ಕಮಾಂಡರ್-ಇನ್-ಚೀಫ್.",
+          "stories": [
+            {
+              "title": "Military Legend",
+              "titleKn": "ಮಿಲಿಟರಿ ದಂತಕಥೆ",
+              "image": "cariappa",
+              "content": "Field Marshal K. M. Cariappa was the first Indian Commander-in-Chief of the Indian Army, a pride of Kodagu.",
+              "contentKn": "ಫೀಲ್ಡ್ ಮಾರ್ಷಲ್ ಕೆ. ಎಂ. ಕಾರ್ಯಪ್ಪ ಅವರು ಭಾರತೀಯ ಸೇನೆಯ ಮೊದಲ ಭಾರತೀಯ ಕಮಾಂಡರ್-ಇನ್-ಚೀಫ್ ಆಗಿದ್ದರು, ಇದು ಕೊಡಗಿನ ಹೆಮ್ಮೆ."
+            },
+            {
+              "title": "Kipper's Early Days",
+              "titleKn": "ಕಿಪ್ಪರ್‌ನ ಆರಂಭಿಕ ದಿನಗಳು",
+              "image": "cariappa",
+              "content": "Known affectionately as 'Kipper', he had an illustrious career spanning several decades and multiple wars.",
+              "contentKn": "ಅವರನ್ನು ಪ್ರೀತಿಯಿಂದ 'ಕಿಪ್ಪರ್' ಎಂದು ಕರೆಯಲಾಗುತ್ತಿತ್ತು, ಅವರು ಹಲವಾರು ದಶಕಗಳು ಮತ್ತು ಯುದ್ಧಗಳಲ್ಲಿ ಸುದೀರ್ಘ ವೃತ್ತಿಜೀವನವನ್ನು ಹೊಂದಿದ್ದರು."
+            },
+            {
+              "title": "Highest Military Rank",
+              "titleKn": "ಅತ್ಯುನ್ನತ ಮಿಲಿಟರಿ ಶ್ರೇಣಿ",
+              "image": "cariappa",
+              "content": "He was one of only two Indian Army officers to hold the five-star rank of Field Marshal.",
+              "contentKn": "ಫೀಲ್ಡ್ ಮಾರ್ಷಲ್ ಎಂಬ ಪಂಚತಾರಾ ಶ್ರೇಣಿಯನ್ನು ಹೊಂದಿದ್ದ ಭಾರತೀಯ ಸೇನೆಯ ಇಬ್ಬರು ಅಧಿಕಾರಿಗಳಲ್ಲಿ ಇವರು ಒಬ್ಬರು."
+            }
+          ],
+          "quiz": [
+            {
+              "question": "What was his rank?",
+              "questionKn": "ಅವರ ಹುದ್ದೆ ಯಾವುದು?",
+              "options": ["Field Marshal", "General", "Major", "Captain"],
+              "optionsKn": ["ಫೀಲ್ಡ್ ಮಾರ್ಷಲ್", "ಜನರಲ್", "ಮೇಜರ್", "ಕ್ಯಾಪ್ಟನ್"],
+              "correctAnswerIndex": 0
+            }
+          ],
+          "statueLat": 12.4208,
+          "statueLng": 75.7397
+        }
+      ]
+    },
+    {
+      "name": "Kolar",
+      "heroes": [
+        {
+          "id": "v_venkatappa",
+          "name": "T. Chennaiah",
+          "nameKn": "ಟಿ. ಚೆನ್ನಯ್ಯ",
+          "image": "chennaiah",
+          "shortDescription": "Freedom fighter from Kolar.",
+          "shortDescriptionKn": "ಕೋಲಾರದ ಸ್ವಾತಂತ್ರ್ಯ ಹೋರಾಟಗಾರ.",
+          "stories": [
+            {
+              "title": "Kolar Struggle",
+              "titleKn": "ಕೋಲಾರ ಹೋರಾಟ",
+              "image": "chennaiah",
+              "content": "T. Chennaiah was a prominent freedom fighter from Kolar who dedicated his life to the struggle against British rule.",
+              "contentKn": "ಟಿ. ಚೆನ್ನಯ್ಯ ಅವರು ಕೋಲಾರದ ಪ್ರಮುಖ ಸ್ವಾತಂತ್ರ್ಯ ಹೋರಾಟಗಾರರಾಗಿದ್ದರು, ಅವರು ಬ್ರಿಟಿಷ್ ಆಳ್ವಿಕೆಯ ವಿರುದ್ಧದ ಹೋರಾಟಕ್ಕೆ ತಮ್ಮ ಜೀವನವನ್ನು ಮುಡಿಪಾಗಿಟ್ಟರು."
+            },
+            {
+              "title": "Voice of the Poor",
+              "titleKn": "ಬಡವರ ಧ್ವನಿ",
+              "image": "kolar",
+              "content": "He tirelessly worked for the social and economic upliftment of the Dalit communities and the poor in Kolar district.",
+              "contentKn": "ಅವರು ಕೋಲಾರ ಜಿಲ್ಲೆಯ ದಲಿತ ಸಮುದಾಯಗಳು ಮತ್ತು ಬಡವರ ಸಾಮಾಜಿಕ ಮತ್ತು ಆರ್ಥಿಕ ಏಳಿಗೆಗಾಗಿ ದಣಿವರಿಯಿಲ್ಲದೆ ಶ್ರಮಿಸಿದರು."
+            },
+            {
+              "title": "Gandhian Principles",
+              "titleKn": "ಗಾಂಧಿ ತತ್ವಗಳು",
+              "image": "kolar",
+              "content": "Follower of Mahatma Gandhi, he played a crucial role in organizing the local people during the Quit India movement.",
+              "contentKn": "ಮಹಾತ್ಮಾ ಗಾಂಧಿಯವರ ಅನುಯಾಯಿಯಾಗಿದ್ದ ಅವರು ಕ್ವಿಟ್ ಇಂಡಿಯಾ ಚಳವಳಿಯ ಸಮಯದಲ್ಲಿ ಸ್ಥಳೀಯ ಜನರನ್ನು ಸಂಘಟಿಸುವಲ್ಲಿ ಪ್ರಮುಖ ಪಾತ್ರ ವಹಿಸಿದರು."
+            }
+          ],
+          "quiz": [
+            {
+              "question": "What was Kolar famous for?",
+              "questionKn": "ಕೋಲಾರ ಯಾವುದಕ್ಕೆ ಪ್ರಸಿದ್ಧವಾಗಿತ್ತು?",
+              "options": ["Gold Mines", "Coffee", "Tea", "Silk"],
+              "optionsKn": ["ಚಿನ್ನದ ಗಣಿಗಳು", "ಕಾಫಿ", "ಚಹಾ", "ರೇಷ್ಮೆ"],
+              "correctAnswerIndex": 0
+            }
+          ],
+          "statueLat": 13.1333,
+          "statueLng": 78.1333
+        }
+      ]
+    },
+    {
+      "name": "Koppal",
+      "heroes": [
+        {
+          "id": "balappa",
+          "name": "Huligemma",
+          "nameKn": "ಹುಲಿಗಮ್ಮ",
+          "image": "huligemma",
+          "shortDescription": "Local folk deity.",
+          "shortDescriptionKn": "ಸ್ಥಳೀಯ ಜಾನಪದ ದೇವತೆ.",
+          "stories": [
+            {
+              "title": "The Protector",
+              "titleKn": "ರಕ್ಷಕ",
+              "image": "huligemma",
+              "content": "Goddess Huligemma is the most revered folk deity of the Koppal region, worshipped for protection and prosperity.",
+              "contentKn": "ಹುಲಿಗಮ್ಮ ದೇವಿಯು ಕೊಪ್ಪಳ ಪ್ರದೇಶದ ಅತ್ಯಂತ ಪೂಜ್ಯ ಜಾನಪದ ದೇವತೆಯಾಗಿದ್ದು, ರಕ್ಷಣೆ ಮತ್ತು ಸಮೃದ್ಧಿಗಾಗಿ ಪೂಜಿಸಲಾಗುತ್ತದೆ."
+            },
+            {
+              "title": "Legend of Munirabad",
+              "titleKn": "ಮುನಿರಾಬಾದ್ ದಂತಕಥೆ",
+              "image": "huligemma",
+              "content": "Her temple in Munirabad is a major pilgrimage center, attracting thousands of devotees during the annual fair.",
+              "contentKn": "ಮುನಿರಾಬಾದ್‌ನಲ್ಲಿರುವ ಅವಳ ದೇವಾಲಯವು ಪ್ರಮುಖ ಯಾತ್ರಾ ಕೇಂದ್ರವಾಗಿದೆ, ವಾರ್ಷಿಕ ಜಾತ್ರೆಯ ಸಮಯದಲ್ಲಿ ಸಾವಿರಾರು ಭಕ್ತರನ್ನು ಆಕರ್ಷಿಸುತ್ತದೆ."
+            },
+            {
+              "title": "Folk Traditions",
+              "titleKn": "ಜಾನಪದ ಸಂಪ್ರದಾಯಗಳು",
+              "image": "huligemma",
+              "content": "The stories and songs of Huligemma are an integral part of the rich folk heritage of the Koppal district.",
+              "contentKn": "ಹುಲಿಗಮ್ಮನ ಕಥೆಗಳು ಮತ್ತು ಹಾಡುಗಳು ಕೊಪ್ಪಳ ಜಿಲ್ಲೆಯ ಶ್ರೀಮಂತ ಜಾನಪದ ಪರಂಪರೆಯ ಅವಿಭಾಜ್ಯ ಅಂಗವಾಗಿದೆ."
+            }
+          ],
+          "quiz": [
+            {
+              "question": "Where is the temple located?",
+              "questionKn": "ದೇವಸ್ಥಾನ ಎಲ್ಲಿದೆ?",
+              "options": ["Munirabad", "Bidar", "Kolar", "Hassan"],
+              "optionsKn": ["ಮುನಿರಾಬಾದ್", "ಬೀದರ್", "ಕೋಲಾರ", "ಹಾಸನ"],
+              "correctAnswerIndex": 0
+            }
+          ],
+          "statueLat": 15.3500,
+          "statueLng": 76.1500
+        }
+      ]
+    },
+    {
+      "name": "Mandya",
+      "heroes": [
+        {
+          "id": "adi_chunchanagiri",
+          "name": "Balagangadharanatha Swamiji",
+          "nameKn": "ಬಾಲಗಂಗಾಧರನಾಥ ಸ್ವಾಮೀಜಿ",
+          "image": "swamiji",
+          "shortDescription": "Religious and social leader.",
+          "shortDescriptionKn": "ಧಾರ್ಮಿಕ ಮತ್ತು ಸಾಮಾಜಿಕ ನಾಯಕ.",
+          "stories": [
+            {
+              "title": "Service to Humanity",
+              "titleKn": "ಮಾನವ ಸೇವೆ",
+              "image": "swamiji",
+              "content": "Sri Balagangadharanatha Swamiji was the 71st head of the Adi Chunchanagiri Matha, known for his vast social service.",
+              "contentKn": "ಶ್ರೀ ಬಾಲಗಂಗಾಧರನಾಥ ಸ್ವಾಮೀಜಿಯವರು ಆದಿಚುಂಚನಗಿರಿ ಮಠದ 71 ನೇ ಪೀಠಾಧಿಪತಿಗಳಾಗಿದ್ದರು, ಇವರು ತಮ್ಮ ಅಪಾರ ಸಾಮಾಜಿಕ ಸೇವೆಗೆ ಹೆಸರಾಗಿದ್ದರು."
+            },
+            {
+              "title": "Educational Visionary",
+              "titleKn": "ಶೈಕ್ಷಣಿಕ ದೂರದೃಷ್ಟಿಯುಳ್ಳವರು",
+              "image": "mandya",
+              "content": "He established hundreds of educational institutions, providing quality education to thousands of rural children in Mandya and beyond.",
+              "contentKn": "ಅವರು ನೂರಾರು ಶಿಕ್ಷಣ ಸಂಸ್ಥೆಗಳನ್ನು ಸ್ಥಾಪಿಸಿದರು, ಮಂಡ್ಯ ಮತ್ತು ಸುತ್ತಮುತ್ತಲಿನ ಸಾವಿರಾರು ಗ್ರಾಮೀಣ ಮಕ್ಕಳಿಗೆ ಗುಣಮಟ್ಟದ ಶಿಕ್ಷಣವನ್ನು ನೀಡಿದರು."
+            },
+            {
+              "title": "Environment and Health",
+              "titleKn": "ಪರಿಸರ ಮತ್ತು ಆರೋಗ್ಯ",
+              "image": "swamiji",
+              "content": "He initiated massive tree-planting drives and established hospitals, focusing on the holistic welfare of the society.",
+              "contentKn": "ಅವರು ಬೃಹತ್ ಸಸಿ ನೆಡುವ ಅಭಿಯಾನಗಳನ್ನು ಪ್ರಾರಂಭಿಸಿದರು ಮತ್ತು ಆಸ್ಪತ್ರೆಗಳನ್ನು ಸ್ಥಾಪಿಸಿದರು, ಸಮಾಜದ ಸಮಗ್ರ ಕಲ್ಯಾಣದತ್ತ ಗಮನ ಹರಿಸಿದರು."
+            }
+          ],
+          "quiz": [
+            {
+              "question": "Which district is he from?",
+              "questionKn": "ಅವರು ಯಾವ ಜಿಲ್ಲೆಯವರು?",
+              "options": ["Mandya", "Mysuru", "Bidar", "Kolar"],
+              "optionsKn": ["ಮಂಡ್ಯ", "ಮೈಸೂರು", "ಬೀದರ್", "ಕೋಲಾರ"],
+              "correctAnswerIndex": 0
+            }
+          ],
+          "statueLat": 12.5222,
+          "statueLng": 76.8961
+        }
+      ]
+    },
+    {
+      "name": "Mysuru",
+      "heroes": [
+        {
+          "id": "krishnaraja_wodeyar",
+          "name": "Krishnaraja Wodeyar IV",
+          "nameKn": "ನಾಲ್ವಡಿ ಕೃಷ್ಣರಾಜ ಒಡೆಯರ್",
+          "image": "wodeyar",
+          "shortDescription": "Architect of Modern Mysore.",
+          "shortDescriptionKn": "ಆಧುನಿಕ ಮೈಸೂರಿನ ಶಿಲ್ಪಿ.",
+          "stories": [
+            {
+              "title": "Rajarishi",
+              "titleKn": "ರಾಜರ್ಷಿ",
+              "image": "wodeyar",
+              "content": "Nalvadi Krishnaraja Wodeyar was the visionary Maharaja of Mysore, whom Gandhiji called a 'Rajarishi' for his ideal rule.",
+              "contentKn": "ನಾಲ್ವಡಿ ಕೃಷ್ಣರಾಜ ಒಡೆಯರ್ ಮೈಸೂರಿನ ದೂರದೃಷ್ಟಿಯ ಮಹಾರಾಜರಾಗಿದ್ದರು, ಇವರ ಆದರ್ಶ ಆಡಳಿತಕ್ಕಾಗಿ ಗಾಂಧೀಜಿಯವರು ಇವರನ್ನು 'ರಾಜರ್ಷಿ' ಎಂದು ಕರೆದರು."
+            },
+            {
+              "title": "Modernizing Mysore",
+              "titleKn": "ಮೈಸೂರಿನ ಆಧುನೀಕರಣ",
+              "image": "wodeyar",
+              "content": "He introduced pioneering reforms in education, democracy, and women's rights, making Mysore a 'Model State'.",
+              "contentKn": "ಅವರು ಶಿಕ್ಷಣ, ಪ್ರಜಾಪ್ರಭುತ್ವ ಮತ್ತು ಮಹಿಳಾ ಹಕ್ಕುಗಳಲ್ಲಿ ಪ್ರವರ್ತಕ ಸುಧಾರಣೆಗಳನ್ನು ಪರಿಚಯಿಸಿದರು, ಮೈಸೂರನ್ನು 'ಮಾದರಿ ರಾಜ್ಯ'ವನ್ನಾಗಿ ಮಾಡಿದರು."
+            },
+            {
+              "title": "Patron of Science",
+              "titleKn": "ವಿಜ್ಞಾನದ ಪೋಷಕ",
+              "image": "wodeyar",
+              "content": "He was instrumental in establishing the Indian Institute of Science and many major industries in the state.",
+              "contentKn": "ಅವರು ಭಾರತೀಯ ವಿಜ್ಞಾನ ಸಂಸ್ಥೆ ಮತ್ತು ರಾಜ್ಯದ ಅನೇಕ ಪ್ರಮುಖ ಕೈಗಾರಿಕೆಗಳನ್ನು ಸ್ಥಾಪಿಸುವಲ್ಲಿ ಪ್ರಮುಖ ಪಾತ್ರ ವಹಿಸಿದರು."
+            }
+          ],
+          "quiz": [
+            {
+              "question": "What did Gandhi call him?",
+              "questionKn": "ಗಾಂಧಿ ಅವರನ್ನು ಏನೆಂದು ಕರೆದರು?",
+              "options": ["Rajarishi", "Mahatma", "Sardar", "Netaji"],
+              "optionsKn": ["ರಾಜರ್ಷಿ", "ಮಹಾತ್ಮ", "ಸರ್ದಾರ್", "ನೇತಾಜಿ"],
+              "correctAnswerIndex": 0
+            }
+          ],
+          "statueLat": 12.3039,
+          "statueLng": 76.6544
+        }
+      ]
+    },
+    {
+      "name": "Raichur",
+      "heroes": [
+        {
+          "id": "mallikarjun_mansur",
+            "name": "Mallikarjun Mansur",
+          "nameKn": "ಮಲ್ಲಿಕಾರ್ಜುನ ಮನ್ಸೂರ್",
+          "image": "mansur",
+          "shortDescription": "Hindustani classical vocalist.",
+          "shortDescriptionKn": "ಹಿಂದೂಸ್ತಾನಿ ಶಾಸ್ತ್ರೀಯ ಗಾಯಕ.",
+          "stories": [
+            {
+              "title": "The Voice of Raichur",
+              "titleKn": "ರಾಯಚೂರಿನ ಧ್ವನಿ",
+              "image": "mansur",
+              "content": "Mallikarjun Mansur was an extraordinary Hindustani classical singer of the Jaipur-Atrauli gharana.",
+              "contentKn": "ಮಲ್ಲಿಕಾರ್ಜುನ ಮನ್ಸೂರ್ ಜೈಪುರ-ಅತ್ರೌಲಿ ಘರಾನಾದ ಅಸಾಧಾರಣ ಹಿಂದೂಸ್ತಾನಿ ಶಾಸ್ತ್ರೀಯ ಗಾಯಕರಾಗಿದ್ದರು."
+            },
+            {
+              "title": "Musical Devotion",
+              "titleKn": "ಸಂಗೀತ ಭಕ್ತಿ",
+              "image": "mansur",
+              "content": "His singing was known for its deep spiritual quality and his mastery over rare and complex ragas.",
+              "contentKn": "ಅವರ ಗಾಯನವು ಅದರ ಆಳವಾದ ಆಧ್ಯಾತ್ಮಿಕ ಗುಣಮಟ್ಟಕ್ಕೆ ಮತ್ತು ಅಪರೂಪದ ಹಾಗೂ ಸಂಕೀರ್ಣ ರಾಗಗಳ ಮೇಲಿನ ಅವರ ಪಾಂಡಿತ್ಯಕ್ಕೆ ಹೆಸರುವಾಸಿಯಾಗಿತ್ತು."
+            },
+            {
+              "title": "Simple Living",
+              "titleKn": "ಸರಳ ಜೀವನ",
+              "image": "mansur",
+              "content": "Despite his international fame, he lived a simple life, dedicated entirely to his music and students.",
+              "contentKn": "ಅವರ ಅಂತರರಾಷ್ಟ್ರೀಯ ಖ್ಯಾತಿಯ ಹೊರತಾಗಿಯೂ, ಅವರು ಸಂಪೂರ್ಣವಾಗಿ ತಮ್ಮ ಸಂಗೀತ ಮತ್ತು ವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ ಸಮರ್ಪಿತವಾದ ಸರಳ ಜೀವನವನ್ನು ನಡೆಸಿದರು."
+            }
+          ],
+          "quiz": [
+            {
+              "question": "What type of music did he sing?",
+              "questionKn": "ಅವರು ಯಾವ ರೀತಿಯ ಸಂಗೀತವನ್ನು ಹಾಡುತ್ತಿದ್ದರು?",
+              "options": ["Hindustani", "Carnatic", "Pop", "Jazz"],
+              "optionsKn": ["ಹಿಂದೂಸ್ತಾನಿ", "ಕರ್ನಾಟಕ", "ಪಾಪ್", "ಜಾಜ್"],
+              "correctAnswerIndex": 0
+            }
+          ],
+          "statueLat": 16.2100,
+          "statueLng": 77.3500
+        }
+      ]
+    },
+    {
+      "name": "Ramanagara",
+      "heroes": [
+        {
+          "id": "balagangadhara",
+          "name": "Sri Sri Balagangadhara Swamiji",
+          "nameKn": "ಶ್ರೀ ಶ್ರೀ ಬಾಲಗಂಗಾಧರ ಸ್ವಾಮೀಜಿ",
+          "image": "swamiji",
+          "shortDescription": "Spiritual leader.",
+          "shortDescriptionKn": "ಅಧ್ಯಾತ್ಮಿಕ ನಾಯಕ.",
+          "stories": [
+            {
+              "title": "Spiritual Growth",
+              "titleKn": "ಅಧ್ಯಾತ್ಮಿಕ ಬೆಳವಣಿಗೆ",
+              "image": "ramanagara_1",
+              "content": "Sri Balagangadhara Swamiji led the Adi Chunchanagiri Matha, transforming it into a global spiritual and social service center.",
+              "contentKn": "ಶ್ರೀ ಬಾಲಗಂಗಾಧರನಾಥ ಸ್ವಾಮೀಜಿಯವರು ಆದಿಚುಂಚನಗಿರಿ ಮಠದ ನೇತೃತ್ವ ವಹಿಸಿ, ಅದನ್ನು ಜಾಗತಿಕ ಆಧ್ಯಾತ್ಮಿಕ ಮತ್ತು ಸಾಮಾಜಿಕ ಸೇವಾ ಕೇಂದ್ರವನ್ನಾಗಿ ಪರಿವರ್ತಿಸಿದರು."
+            },
+            {
+              "title": "Social Empowerment",
+              "titleKn": "ಸಾಮಾಜಿಕ ಸಬಲೀಕರಣ",
+              "image": "ramanagara_2",
+              "content": "He worked tirelessly for the empowerment of the rural poor through education, agriculture, and healthcare initiatives.",
+              "contentKn": "ಶಿಕ್ಷಣ, ಕೃಷಿ ಮತ್ತು ಆರೋಗ್ಯ ಉಪಕ್ರಮಗಳ ಮೂಲಕ ಗ್ರಾಮೀಣ ಬಡವರ ಸಬಲೀಕರಣಕ್ಕಾಗಿ ಅವರು ದಣಿವರಿಯಿಲ್ಲದೆ ಶ್ರಮಿಸಿದರು."
+            },
+            {
+              "title": "Global Message",
+              "titleKn": "ಜಾಗತಿಕ ಸಂದೇಶ",
+              "image": "ramanagara_3",
+              "content": "His message of universal peace and service reached millions across the world through his discourses and missions.",
+              "contentKn": "ವಿಶ್ವ ಶಾಂತಿ ಮತ್ತು ಸೇವೆಯ ಅವರ ಸಂದೇಶವು ಅವರ ಪ್ರವಚನಗಳು ಮತ್ತು ಮಿಷನ್‌ಗಳ ಮೂಲಕ ಪ್ರಪಂಚದಾದ್ಯಂತ ಲಕ್ಷಾಂತರ ಜನರನ್ನು ತಲುಪಿತು."
+            }
+          ],
+          "quiz": [
+            {
+              "question": "Ramanagara is famous for what industry?",
+              "questionKn": "ರಾಮನಗರ ಯಾವ ಕೈಗಾರಿಕೆಗೆ ಪ್ರಸಿದ್ಧವಾಗಿದೆ?",
+              "options": ["Silk", "Coffee", "Tea", "Gold"],
+              "optionsKn": ["ರೇಷ್ಮೆ", "ಕಾಫಿ", "ಚಹಾ", "ಚಿನ್ನ"],
+              "correctAnswerIndex": 0
+            }
+          ],
+          "statueLat": 12.7167,
+          "statueLng": 77.2833
+        }
+      ]
+    },
+    {
+      "name": "Shivamogga",
+      "heroes": [
+        {
+          "id": "kuvempu",
+          "name": "Kuvempu",
+          "nameKn": "ಕುವೆಂಪು",
+          "image": "kuvempu",
+          "shortDescription": "National Poet.",
+          "shortDescriptionKn": "ರಾಷ್ಟ್ರಕವಿ.",
+          "stories": [
+            {
+              "title": "Universal Man",
+              "titleKn": "ವಿಶ್ವ ಮಾನವ",
+              "image": "kuvempu_1",
+              "content": "Kuvempu was a legendary Kannada writer and the first to receive the Jnanpith Award for the Kannada language.",
+              "contentKn": "ಕುವೆಂಪು ಅವರು ಪೌರಾಣಿಕ ಕನ್ನಡ ಬರಹಗಾರರು ಮತ್ತು ಕನ್ನಡ ಭಾಷೆಗೆ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ಪಡೆದ ಮೊದಲ ವ್ಯಕ್ತಿ."
+            },
+            {
+              "title": "Nature's Poet",
+              "titleKn": "ಪ್ರಕೃತಿ ಕವಿ",
+              "image": "kuvempu_1",
+              "content": "Deeply inspired by the Malnad region, his literature beautifully captures the essence of nature and human emotions.",
+              "contentKn": "ಮಲೆನಾಡು ಪ್ರದೇಶದಿಂದ ಆಳವಾಗಿ ಸ್ಫೂರ್ತಿ ಪಡೆದ ಅವರ ಸಾಹಿತ್ಯವು ಪ್ರಕೃತಿ ಮತ್ತು ಮಾನವ ಭಾವನೆಗಳ ಸಾರವನ್ನು ಸುಂದರವಾಗಿ ಸೆರೆಹಿಡಿಯುತ್ತದೆ."
+            },
+            {
+              "title": "Vishwa Manava Sandesha",
+              "titleKn": "ವಿಶ್ವ ಮಾನವ ಸಂದೇಶ",
+              "image": "kuvempu_1",
+              "content": "He gave the world the 'Vishwa Manava Sandesha', advocating for a global society based on humanity beyond all divisions.",
+              "contentKn": "ಅವರು ಪ್ರಪಂಚಕ್ಕೆ 'ವಿಶ್ವ ಮಾನವ ಸಂದೇಶ'ವನ್ನು ನೀಡಿದರು, ಎಲ್ಲಾ ವಿಭಾಗಗಳನ್ನು ಮೀರಿದ ಮಾನವೀಯತೆಯ ಆಧಾರಿತ ಜಾಗತಿಕ ಸಮಾಜಕ್ಕಾಗಿ ಪ್ರತಿಪಾದಿಸಿದರು."
+            }
+          ],
+          "quiz": [
+            {
+              "question": "Who wrote the state anthem?",
+              "questionKn": "ರಾಜ್ಯ ಗೀತೆಯನ್ನು ಬರೆದವರು ಯಾರು?",
+              "options": ["Kuvempu", "Bendre", "Karanth", "Masti"],
+              "optionsKn": ["ಕುವೆಂಪು", "ಬೇಂದ್ರೆ", "ಕಾರಂತ", "ಮಾಸ್ತಿ"],
+              "correctAnswerIndex": 0
+            }
+          ],
+          "statueLat": 13.9299,
+          "statueLng": 75.5681
+        }
+      ]
+    },
+    {
+      "name": "Tumakuru",
+      "heroes": [
+        {
+          "id": "shivakumara_swamiji",
+          "name": "Sri Shivakumara Swamiji",
+          "nameKn": "ಶ್ರೀ ಶಿವಕುಮಾರ ಸ್ವಾಮೀಜಿ",
+          "image": "swamiji_t",
+          "shortDescription": "Walking God (Nadedaduva Devaru).",
+          "shortDescriptionKn": "ನಡೆದಾಡುವ ದೇವರು.",
+          "stories": [
+            {
+              "title": "Trividha Dasohi",
+              "titleKn": "ತ್ರಿವಿಧ ದಾಸೋಹಿ",
+              "image": "swamiji_1",
+              "content": "Sri Shivakumara Swamiji of Siddaganga Matha was revered as a 'Walking God' for his selfless service to humanity.",
+              "contentKn": "ಸಿದ್ದಗಂಗಾ ಮಠದ ಶ್ರೀ ಶಿವಕುಮಾರ ಸ್ವಾಮೀಜಿಯವರು ಮಾನವಕುಲಕ್ಕೆ ಸಲ್ಲಿಸಿದ ನಿಸ್ವಾರ್ಥ ಸೇವೆಗಾಗಿ 'ನಡೆದಾಡುವ ದೇವರು' ಎಂದು ಪೂಜಿಸಲ್ಪಟ್ಟರು."
+            },
+            {
+              "title": "Education for All",
+              "titleKn": "ಎಲ್ಲರಿಗೂ ಶಿಕ್ಷಣ",
+              "image": "swamiji_2",
+              "content": "He provided free food, shelter, and education to thousands of students, regardless of their caste or religion.",
+              "contentKn": "ಅವರು ಜಾತಿ ಅಥವಾ ಧರ್ಮದ ಭೇದವಿಲ್ಲದೆ ಸಾವಿರಾರು ವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ ಉಚಿತ ಅನ್ನ, ವಸತಿ ಮತ್ತು ಶಿಕ್ಷಣವನ್ನು ನೀಡಿದರು."
+            },
+            {
+              "title": "Life of Discipline",
+              "titleKn": "ಶಿಸ್ತಿನ ಜೀವನ",
+              "image": "swamiji_1",
+              "content": "He lived a remarkably simple and disciplined life for 111 years, serving as a beacon of light for society.",
+              "contentKn": "ಅವರು 111 ವರ್ಷಗಳ ಕಾಲ ಗಮನಾರ್ಹವಾದ ಸರಳ ಮತ್ತು ಶಿಸ್ತಿನ ಜೀವನವನ್ನು ನಡೆಸಿದರು, ಸಮಾಜಕ್ಕೆ ದಾರಿದೀಪವಾಗಿ ಸೇವೆ ಸಲ್ಲಿಸಿದರು."
+            }
+          ],
+          "quiz": [
+            {
+              "question": "What was he known as?",
+              "questionKn": "ಅವರು ಏನೆಂದು ಕರೆಯಲ್ಪಡುತ್ತಿದ್ದರು?",
+              "options": ["Walking God", "Lion King", "Saint", "Poet"],
+              "optionsKn": ["ನಡೆದಾಡುವ ದೇವರು", "ಲಯನ್ ಕಿಂಗ್", "ಸಂತ", "ಕವಿ"],
+              "correctAnswerIndex": 0
+            }
+          ],
+          "statueLat": 13.3333,
+          "statueLng": 77.1000
+        }
+      ]
+    },
+    {
+      "name": "Udupi",
+      "heroes": [
+        {
+          "id": "madhvacharya",
+          "name": "Madhvacharya",
+          "nameKn": "ಮಧ್ವಾಚಾರ್ಯ",
+          "image": "madhva",
+          "shortDescription": "Founder of Dvaita school of philosophy.",
+          "shortDescriptionKn": "ದ್ವೈತ ದರ್ಶನದ ಸಂಸ್ಥಾಪಕರು.",
+          "stories": [
+            {
+              "title": "Dvaita Philosophy",
+              "titleKn": "ದ್ವೈತ ದರ್ಶನ",
+              "image": "madhva",
+              "content": "Sri Madhvacharya was the great philosopher who founded the Dvaita (dualism) school of Vedanta in the 13th century.",
+              "contentKn": "ಶ್ರೀ ಮಧ್ವಾಚಾರ್ಯರು 13 ನೇ ಶತಮಾನದಲ್ಲಿ ವೇದಾಂತದ ದ್ವೈತ ದರ್ಶನವನ್ನು ಸ್ಥಾಪಿಸಿದ ಮಹಾನ್ ದಾರ್ಶನಿಕರಾಗಿದ್ದರು."
+            },
+            {
+              "title": "Krishna Idol",
+              "titleKn": "ಕೃಷ್ಣ ವಿಗ್ರಹ",
+              "image": "madhva",
+              "content": "He is credited with recovering the idol of Lord Krishna from a ball of clay (Gopichandana) and installing it in Udupi.",
+              "contentKn": "ಗೋಪೀಚಂದನದಿಂದ ಕೃಷ್ಣನ ವಿಗ್ರಹವನ್ನು ಪಡೆದು ಉಡುಪಿಯಲ್ಲಿ ಸ್ಥಾಪಿಸಿದ ಕೀರ್ತಿ ಅವರಿಗೆ ಸಲ್ಲುತ್ತದೆ."
+            },
+            {
+              "title": "The Eight Mathas",
+              "titleKn": "ಅಷ್ಟ ಮಠಗಳು",
+              "image": "madhva",
+              "content": "He established the Ashta Mathas (eight monasteries) in Udupi to continue his teachings and manage the temple services.",
+              "contentKn": "ತಮ್ಮ ಬೋಧನೆಗಳನ್ನು ಮುಂದುವರಿಸಲು ಮತ್ತು ದೇವಸ್ಥಾನದ ಸೇವೆಗಳನ್ನು ನಿರ್ವಹಿಸಲು ಅವರು ಉಡುಪಿಯಲ್ಲಿ ಅಷ್ಟ ಮಠಗಳನ್ನು ಸ್ಥಾಪಿಸಿದರು."
+            }
+          ],
+          "quiz": [
+            {
+              "question": "Which philosophy did he found?",
+              "questionKn": "ಅವರು ಯಾವ ದರ್ಶನವನ್ನು ಸ್ಥಾಪಿಸಿದರು?",
+              "options": ["Dvaita", "Advaita", "Vishishtadvaita", "Shakti"],
+              "optionsKn": ["ದ್ವೈತ", "ಅದ್ವೈತ", "ವಿಶಿಷ್ಟಾದ್ವೈತ", "ಶಕ್ತಿ"],
+              "correctAnswerIndex": 0
+            }
+          ],
+          "statueLat": 13.3333,
+          "statueLng": 74.7500
+        }
+      ]
+    },
+    {
+      "name": "Uttara Kannada",
+      "heroes": [
+        {
+          "id": "dinakara_desai",
+          "name": "Dinakara Desai",
+          "nameKn": "ದಿನಕರ ದೇಸಾಯಿ",
+          "image": "desai",
+          "shortDescription": "Creator of Chutuku poems.",
+          "shortDescriptionKn": "ಚುಟುಕು ಪದ್ಯಗಳ ಸೃಷ್ಟಿಕರ್ತ.",
+          "stories": [
+            {
+              "title": "Father of Chutuku",
+              "titleKn": "ಚುಟುಕು ಪಿತಾಮಹ",
+              "image": "desai",
+              "content": "Dinakara Desai was a prominent Kannada poet, political leader, and a great social worker from Uttara Kannada.",
+              "contentKn": "ದಿನಕರ ದೇಸಾಯಿ ಉತ್ತರ ಕನ್ನಡದ ಪ್ರಮುಖ ಕನ್ನಡ ಕವಿ, ರಾಜಕೀಯ ನಾಯಕ ಮತ್ತು ಮಹಾನ್ ಸಮಾಜ ಸೇವಕರಾಗಿದ್ದರು."
+            },
+            {
+              "title": "Poetic Wit",
+              "titleKn": "ಕಾವ್ಯಾತ್ಮಕ ಹಾಸ್ಯ",
+              "image": "desai",
+              "content": "He popularized the four-line poetic form called 'Chutuku', known for its wit, humor, and social commentary.",
+              "contentKn": "ಅವರು 'ಚುಟುಕು' ಎಂಬ ನಾಲ್ಕು ಸಾಲಿನ ಕವನ ಪ್ರಕಾರವನ್ನು ಜನಪ್ರಿಯಗೊಳಿಸಿದರು, ಇದು ಅದರ ಹಾಸ್ಯ, ವ್ಯಂಗ್ಯ ಮತ್ತು ಸಾಮಾಜಿಕ ವ್ಯಾಖ್ಯಾನಕ್ಕೆ ಹೆಸರಾಗಿದೆ."
+            },
+            {
+              "title": "Rural Upliftment",
+              "titleKn": "ಗ್ರಾಮೀಣ ಏಳಿಗೆ",
+              "image": "desai",
+              "content": "He founded the Kanara Welfare Trust, establishing numerous schools and colleges in the remote areas of Uttara Kannada.",
+              "contentKn": "ಅವರು ಕೆನರಾ ವೆಲ್ಫೇರ್ ಟ್ರಸ್ಟ್ ಅನ್ನು ಸ್ಥಾಪಿಸಿದರು, ಉತ್ತರ ಕನ್ನಡದ ದೂರದ ಪ್ರದೇಶಗಳಲ್ಲಿ ಹಲವಾರು ಶಾಲೆಗಳು ಮತ್ತು ಕಾಲೇಜುಗಳನ್ನು ಸ್ಥಾಪಿಸಿದರು."
+            }
+          ],
+          "quiz": [
+            {
+              "question": "What poetic form did he popularize?",
+              "questionKn": "ಅವರು ಯಾವ ಕಾವ್ಯ ಪ್ರಕಾರವನ್ನು ಜನಪ್ರಿಯಗೊಳಿಸಿದರು?",
+              "options": ["Chutuku", "Sonnets", "Haiku", "Ghazals"],
+              "optionsKn": ["ಚುಟುಕು", "ಸಾನೆಟ್", "ಹೈಕು", "ಗಜಲ್"],
+              "correctAnswerIndex": 0
+            }
+          ],
+          "statueLat": 14.8000,
+          "statueLng": 74.1333
+        }
+      ]
+    },
+    {
+      "name": "Vijayapura",
+      "heroes": [
+        {
+          "id": "basavanna",
+          "name": "Basavanna",
+          "nameKn": "ಬಸವಣ್ಣ",
+          "image": "basavanna",
+          "shortDescription": "Social reformer.",
+          "shortDescriptionKn": "ಸಮಾಜ ಸುಧಾರಕರು.",
+          "stories": [
+            {
+              "title": "Work is Worship",
+              "titleKn": "ಕಾಯಕವೇ ಕೈಲಾಸ",
+              "image": "basavanna",
+              "content": "Basavanna was a 12th-century philosopher and social reformer who fought against the caste system and gender inequality.",
+              "contentKn": "ಬಸವಣ್ಣನವರು 12 ನೇ ಶತಮಾನದ ದಾರ್ಶನಿಕ ಮತ್ತು ಸಮಾಜ ಸುಧಾರಕರಾಗಿದ್ದರು, ಅವರು ಜಾತಿ ಪದ್ಧತಿ ಮತ್ತು ಲಿಂಗ ಅಸಮಾನತೆಯ ವಿರುದ್ಧ ಹೋರಾಡಿದರು."
+            },
+            {
+              "title": "Vachana Sahitya",
+              "titleKn": "ವಚನ ಸಾಹಿತ್ಯ",
+              "image": "basavanna",
+              "content": "He used 'Vachanas' (simple verses) to spread his message of equality and devotion, which remain a treasure of Kannada literature.",
+              "contentKn": "ಅವರು ಸಮಾನತೆ ಮತ್ತು ಭಕ್ತಿಯ ಸಂದೇಶವನ್ನು ಹರಡಲು 'ವಚನಗಳನ್ನು' ಬಳಸಿದರು, ಅವು ಇಂದಿಗೂ ಕನ್ನಡ ಸಾಹಿತ್ಯದ ನಿಧಿಯಾಗಿ ಉಳಿದಿವೆ."
+            },
+            {
+              "title": "Anubhava Mantapa",
+              "titleKn": "ಅನುಭವ ಮಂಟಪ",
+              "image": "basavanna",
+              "content": "He established the Anubhava Mantapa, an assembly for spiritual and social discussions, which is often called the first parliament of India.",
+              "contentKn": "ಅವರು ಆಧ್ಯಾತ್ಮಿಕ ಮತ್ತು ಸಾಮಾಜಿಕ ಚರ್ಚೆಗಳಿಗಾಗಿ ಅನುಭವ ಮಂಟಪವನ್ನು ಸ್ಥಾಪಿಸಿದರು, ಇದನ್ನು ಹೆಚ್ಚಾಗಿ ಭಾರತದ ಮೊದಲ ಸಂಸತ್ತು ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ."
+            }
+          ],
+          "quiz": [
+            {
+              "question": "What was his main message?",
+              "questionKn": "ಅವರ ಮುಖ್ಯ ಸಂದೇಶ ಯಾವುದು?",
+              "options": ["Work is Worship", "Silence is Gold", "Truth Wins", "Love All"],
+              "optionsKn": ["ಕಾಯಕವೇ ಕೈಲಾಸ", "ಮೌನವೇ ಬಂಗಾರ", "ಸತ್ಯವೇ ಗೆಲ್ಲುತ್ತದೆ", "ಎಲ್ಲರನ್ನೂ ಪ್ರೀತಿಸಿ"],
+              "correctAnswerIndex": 0
+            }
+          ],
+          "statueLat": 16.8302,
+          "statueLng": 75.7100
+        }
+      ]
+    },
+    {
+      "name": "Yadgir",
+      "heroes": [
+        {
+          "id": "m_mallikarjun",
+          "name": "Local Hero",
+          "nameKn": "ಸ್ಥಳೀಯ ವೀರ",
+          "image": "yadgir_hero",
+          "shortDescription": "Contributor to the district's welfare.",
+          "shortDescriptionKn": "ಜಿಲ್ಲೆಯ ಕಲ್ಯಾಣಕ್ಕೆ ಕೊಡುಗೆ ನೀಡಿದವರು.",
+          "stories": [
+            {
+              "title": "Yadgir Heritage",
+              "titleKn": "ಯಾದಗಿರಿ ಪರಂಪರೆ",
+              "image": "yadgir_1",
+              "content": "Yadgir district has a rich historical heritage, once known for its invincible forts and strategic importance.",
+              "contentKn": "ಯಾದಗಿರಿ ಜಿಲ್ಲೆಯು ಶ್ರೀಮಂತ ಐತಿಹಾಸಿಕ ಪರಂಪರೆಯನ್ನು ಹೊಂದಿದೆ, ಒಂದು ಕಾಲದಲ್ಲಿ ಅಜೇಯ ಕೋಟೆಗಳು ಮತ್ತು ಆಯಕಟ್ಟಿನ ಮಹತ್ವಕ್ಕೆ ಹೆಸರಾಗಿತ್ತು."
+            },
+            {
+              "title": "The Fort City",
+              "titleKn": "ಕೋಟೆಗಳ ನಗರ",
+              "image": "yadgir_1",
+              "content": "The district is home to impressive forts like the Yadgir fort, reflecting the bravery and engineering skills of the past rulers.",
+              "contentKn": "ಜಿಲ್ಲೆಯು ಯಾದಗಿರಿ ಕೋಟೆಯಂತಹ ಪ್ರಭಾವಶಾಲಿ ಕೋಟೆಗಳಿಗೆ ನೆಲೆಯಾಗಿದೆ, ಇದು ಹಿಂದಿನ ಆಡಳಿತಗಾರರ ಶೌರ್ಯ ಮತ್ತು ಎಂಜಿನಿಯರಿಂಗ್ ಕೌಶಲ್ಯಗಳನ್ನು ಪ್ರತಿಬಿಂಬಿಸುತ್ತದೆ."
+            },
+            {
+              "title": "People's Resilience",
+              "titleKn": "ಜನರ ಚೇತರಿಕೆ",
+              "image": "yadgir_1",
+              "content": "The local heroes of Yadgir have always shown great resilience, working for the development and welfare of this land.",
+              "contentKn": "ಯಾದಗಿರಿಯ ಸ್ಥಳೀಯ ವೀರರು ಯಾವಾಗಲೂ ಮಹಾನ್ ಚೇತರಿಕೆಯನ್ನು ಪ್ರದರ್ಶಿಸಿದ್ದಾರೆ, ಈ ಭೂಮಿಯ ಅಭಿವೃದ್ಧಿ ಮತ್ತು ಕಲ್ಯಾಣಕ್ಕಾಗಿ ಶ್ರಮಿಸಿದ್ದಾರೆ."
+            }
+          ],
+          "quiz": [
+            {
+              "question": "Yadgir was part of which district?",
+              "questionKn": "ಯಾದಗಿರಿ ಯಾವ ಜಿಲ್ಲೆಯ ಭಾಗವಾಗಿತ್ತು?",
+              "options": ["Kalaburagi", "Bidar", "Raichur", "Koppal"],
+              "optionsKn": ["ಕಲಬುರಗಿ", "ಬೀದರ್", "ರಾಯಚೂರು", "ಕೊಪ್ಪಳ"],
+              "correctAnswerIndex": 0
+            }
+          ],
+          "statueLat": 16.7667,
+          "statueLng": 77.1333
+        }
+      ]
+    },
+    {
+      "name": "Vijayanagara",
+      "heroes": [
+        {
+          "id": "krishnadevaraya",
+          "name": "Krishnadevaraya",
+          "nameKn": "ಕೃಷ್ಣದೇವರಾಯ",
+          "image": "krishnadevaraya",
+          "shortDescription": "Greatest Emperor of Vijayanagara.",
+          "shortDescriptionKn": "ವಿಜಯನಗರದ ಶ್ರೇಷ್ಠ ಚಕ್ರವರ್ತಿ.",
+          "stories": [
+            {
+              "title": "The Golden Age",
+              "titleKn": "ಸುವರ್ಣ ಯುಗ",
+              "image": "krishnadevaraya",
+              "content": "Krishnadevaraya was the greatest emperor of the Vijayanagara Empire, under whose rule the kingdom reached its peak.",
+              "contentKn": "ಕೃಷ್ಣದೇವರಾಯ ವಿಜಯನಗರ ಸಾಮ್ರಾಜ್ಯದ ಶ್ರೇಷ್ಠ ಚಕ್ರವರ್ತಿಯಾಗಿದ್ದರು, ಅವರ ಆಳ್ವಿಕೆಯಲ್ಲಿ ಸಾಮ್ರಾಜ್ಯವು ಉತ್ತುಂಗಕ್ಕೇರಿತು."
+            },
+            {
+              "title": "Patron of Literature",
+              "titleKn": "ಸಾಹಿತ್ಯದ ಪೋಷಕ",
+              "image": "krishnadevaraya",
+              "content": "A great scholar himself, he wrote 'Amuktamalyada' and patronized the 'Ashtadiggajas', the eight great poets in his court.",
+              "contentKn": "ಸ್ವತಃ ಮಹಾನ್ ವಿದ್ವಾಂಸರಾದ ಅವರು 'ಆಮುಕ್ತಮಾಲ್ಯದ' ಕೃತಿಯನ್ನು ಬರೆದರು ಮತ್ತು ತಮ್ಮ ಆಸ್ಥಾನದಲ್ಲಿದ್ದ ಎಂಟು ಮಹಾನ್ ಕವಿಗಳಾದ 'ಅಷ್ಟದಿಗ್ಗಜ'ರನ್ನು ಪೋಷಿಸಿದರು."
+            },
+            {
+              "title": "Master of Hampi",
+              "titleKn": "ಹಂಪಿಯ ಒಡೆಯ",
+              "image": "krishnadevaraya",
+              "content": "He built magnificent temples and monuments in Hampi, which are now a UNESCO World Heritage site.",
+              "contentKn": "ಅವರು ಹಂಪಿಯಲ್ಲಿ ಭವ್ಯವಾದ ದೇವಾಲಯಗಳನ್ನು ಮತ್ತು ಸ್ಮಾರಕಗಳನ್ನು ನಿರ್ಮಿಸಿದರು, ಅವು ಈಗ ಯುನೆಸ್ಕೋ ವಿಶ್ವ ಪರಂಪರೆಯ ತಾಣಗಳಾಗಿವೆ."
+            }
+          ],
+          "quiz": [
+            {
+              "question": "Which empire did he rule?",
+              "questionKn": "ಅವರು ಯಾವ ಸಾಮ್ರಾಜ್ಯವನ್ನು ಆಳಿದರು?",
+              "options": ["Vijayanagara", "Hoysala", "Chola", "Kadamba"],
+              "optionsKn": ["ವಿಜಯನಗರ", "ಹೊಯ್ಸಳ", "ಚೋಳ", "ಕದಂಬ"],
+              "correctAnswerIndex": 0
+            }
+          ],
+          "statueLat": 15.3350,
+          "statueLng": 76.4600
+        }
+      ]
+    }
+  ]
+}
