@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/2a276ce4-2e5f-471c-94bf-2741613cb4b2" width="220" alt="Namma-Kathey Logo"/>
+<img width="500" height="500" alt="appLogo" src="https://github.com/user-attachments/assets/990e03b4-c5e2-4ac2-9623-394343bad150" />
+
 
 # Namma-Kathey (National Pride)
 
@@ -90,27 +91,36 @@ Namma-Kathey/
 
 # 📱 Application Preview
 
+## 👆 User Interaction Screen
+
+<img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/87e8157e-cd19-4799-af96-6e32eb1b2c24" />
+
+---
+
 ## 🏠 Home Screen
 
-<img src="https://github.com/user-attachments/assets/9f8f2f5f-3def-4453-8efb-38c9d72fc354" width="100%" />
+<img width="1920" height="1080" alt="2" src="https://github.com/user-attachments/assets/62250173-d364-47c9-836c-8b836bae8203" />
+
 
 ---
 
 ## 📖 Story & Navigation Screen
 
-<img src="https://github.com/user-attachments/assets/8ef0d49f-3198-48a0-a3b8-f309d0191329" width="100%" />
+
+<img width="1920" height="1080" alt="3" src="https://github.com/user-attachments/assets/155c20b3-fb03-4b56-839a-270bc4926f2c" />
+
 
 ---
 
 ## ❓ Quiz & Learning Section
 
-<img src="https://github.com/user-attachments/assets/ade6131d-115c-4051-9c6d-1b23880f2947" width="100%" />
+<img width="1920" height="1080" alt="4" src="https://github.com/user-attachments/assets/97f7999a-0e0e-462c-9d5b-d8bd9acb8877" />
+
 
 ---
 
-## 👆 User Interaction Screen
 
-<img src="https://github.com/user-attachments/assets/299f7fa0-c9fc-49b0-a40a-4462b86881bf" width="100%" />
+
 
 ---
 
